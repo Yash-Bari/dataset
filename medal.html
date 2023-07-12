@@ -1,0 +1,435 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olympic Experience Application</title>
+  <style>
+    /* Add your custom CSS styles here */
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #555;
+      color: #fff;
+      padding: 10px;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    main {
+      margin: 20px;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    table {
+      width: 100%;
+    }
+
+    th,
+    td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* Additional Sections and Animations */
+
+    #hero {
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    #events,
+    #athletes,
+    #medals,
+    #analytics {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeIn 1s ease-in-out forwards;
+    }
+
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Olympic Experience Application</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Events</a></li>
+      <li><a href="#">Athletes</a></li>
+      <li><a href="#">Medals</a></li>
+      <li><a href="#">Analytics</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="hero">
+      <h2>Welcome to the Olympic Experience Application</h2>
+      <p>Explore the latest news, events, and statistics from the Olympic Games.</p>
+    </section>
+
+    <section id="events">
+      <h2>Upcoming Events</h2>
+      <ul>
+        <!-- Add more events dynamically using JavaScript -->
+      </ul>
+    </section>
+
+    <section id="athletes">
+      <h2>Featured Athletes</h2>
+      <ul>
+        <li>Athlete 1</li>
+        <li>Athlete 2</li>
+        <li>Athlete 3</li>
+        <!-- Add more athletes dynamically using JavaScript -->
+      </ul>
+    </section>
+
+    <section id="medals">
+      <h2>Medal Standings</h2>
+      <table>
+         <table>
+<tr>
+<th>City</th>
+<th>Gold</th>
+<th>Silver</th>
+<th>Bronze</th>
+</tr>
+<tr>
+<td>Barcelona</td>
+<td>559</td>
+<td>549</td>
+<td>604</td>
+</tr>
+<tr>
+<td>London</td>
+<td>1215</td>
+<td>1195</td>
+<td>1214</td>
+</tr>
+<tr>
+<td>Antwerpen</td>
+<td>493</td>
+<td>448</td>
+<td>367</td>
+</tr>
+<tr>
+<td>Paris</td>
+<td>478</td>
+<td>509</td>
+<td>449</td>
+</tr>
+<tr>
+<td>Calgary</td>
+<td>87</td>
+<td>88</td>
+<td>88</td>
+</tr>
+<tr>
+<td>Albertville</td>
+<td>104</td>
+<td>108</td>
+<td>106</td>
+</tr>
+<tr>
+<td>Lillehammer</td>
+<td>110</td>
+<td>109</td>
+<td>112</td>
+</tr>
+<tr>
+<td>Los Angeles</td>
+<td>726</td>
+<td>691</td>
+<td>706</td>
+</tr>
+<tr>
+<td>Salt Lake City</td>
+<td>162</td>
+<td>157</td>
+<td>159</td>
+</tr>
+<tr>
+<td>Helsinki</td>
+<td>306</td>
+<td>291</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Lake Placid</td>
+<td>104</td>
+<td>105</td>
+<td>101</td>
+</tr>
+<tr>
+<td>Sydney</td>
+<td>663</td>
+<td>661</td>
+<td>680</td>
+</tr>
+<tr>
+<td>Atlanta</td>
+<td>608</td>
+<td>605</td>
+<td>629</td>
+</tr>
+<tr>
+<td>Stockholm</td>
+<td>338</td>
+<td>327</td>
+<td>312</td>
+</tr>
+<tr>
+<td>Sochi</td>
+<td>202</td>
+<td>197</td>
+<td>198</td>
+</tr>
+<tr>
+<td>Nagano</td>
+<td>145</td>
+<td>145</td>
+<td>150</td>
+</tr>
+<tr>
+<td>Torino</td>
+<td>176</td>
+<td>175</td>
+<td>175</td>
+</tr>
+<tr>
+<td>Beijing</td>
+<td>671</td>
+<td>667</td>
+<td>710</td>
+</tr>
+<tr>
+<td>Rio de Janeiro</td>
+<td>665</td>
+<td>655</td>
+<td>703</td>
+</tr>
+<tr>
+<td>Athina</td>
+<td>883</td>
+<td>859</td>
+<td>860</td>
+</tr>
+<tr>
+<td>Squaw Valley</td>
+<td>50</td>
+<td>48</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Innsbruck</td>
+<td>131</td>
+<td>138</td>
+<td>128</td>
+</tr>
+<tr>
+<td>Sarajevo</td>
+<td>74</td>
+<td>74</td>
+<td>74</td>
+</tr>
+<tr>
+<td>Mexico City</td>
+<td>359</td>
+<td>340</td>
+<td>358</td>
+</tr>
+<tr>
+<td>Munich</td>
+<td>404</td>
+<td>392</td>
+<td>419</td>
+</tr>
+<tr>
+<td>Seoul</td>
+<td>520</td>
+<td>513</td>
+<td>549</td>
+</tr>
+<tr>
+<td>Berlin</td>
+<td>312</td>
+<td>310</td>
+<td>295</td>
+</tr>
+<tr>
+<td>Oslo</td>
+<td>45</td>
+<td>44</td>
+<td>47</td>
+</tr>
+<tr>
+<td>Cortina d'Ampezzo</td>
+<td>51</td>
+<td>49</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Melbourne</td>
+<td>290</td>
+<td>281</td>
+<td>286</td>
+</tr>
+<tr>
+<td>Roma</td>
+<td>309</td>
+<td>294</td>
+<td>308</td>
+</tr>
+<tr>
+<td>Amsterdam</td>
+<td>245</td>
+<td>239</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Montreal</td>
+<td>438</td>
+<td>434</td>
+<td>448</td>
+</tr>
+<tr>
+<td>Moskva</td>
+<td>457</td>
+<td>458</td>
+<td>469</td>
+</tr>
+<tr>
+<td>Tokyo</td>
+<td>347</td>
+<td>339</td>
+<td>343</td>
+</tr>
+<tr>
+<td>Vancouver</td>
+<td>174</td>
+<td>175</td>
+<td>171</td>
+</tr>
+<tr>
+<td>Grenoble</td>
+<td>66</td>
+<td>70</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Sapporo</td>
+<td>70</td>
+<td>63</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Chamonix</td>
+<td>55</td>
+<td>38</td>
+<td>37</td>
+</tr>
+<tr>
+<td>St. Louis</td>
+<td>173</td>
+<td>163</td>
+<td>150</td>
+</tr>
+<tr>
+<td>Sankt Moritz</td>
+<td>71</td>
+<td>76</td>
+<td>77</td>
+</tr>
+<tr>
+<td>Garmisch-Partenkirchen</td>
+<td>36</td>
+<td>37</td>
+<td>35</td>
+</tr>
+</table>
+      </table>
+    </section>
+
+    <section id="analytics">
+      <h2>Analytics and Insights</h2>
+      <p>Display data visualizations, analysis, or any insights derived from your data science and machine learning
+        techniques here.</p>
+    </section>
+
+    <section id="additional-section">
+      <h2>Additional Section</h2>
+      <p>This is an additional section added for demonstration purposes.</p>
+    </section>
+
+    <section id="animation-section">
+      <h2>Animated Section</h2>
+      <p>This section has an animated effect.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Olympic Experience Application. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // JavaScript code can be added here to dynamically generate content or interact with backend services.
+  </script>
+</body>
+
+</html>
