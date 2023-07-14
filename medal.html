@@ -1,0 +1,3183 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olympic Experience Application</title>
+  <style>
+    /* Add your custom CSS styles here */
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #555;
+      color: #fff;
+      padding: 10px;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    main {
+      margin: 20px;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    table {
+      width: 100%;
+    }
+
+    th,
+    td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* Additional Sections and Animations */
+
+    #hero {
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    #events,
+    #athletes,
+    #medals,
+    #analytics {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeIn 1s ease-in-out forwards;
+    }
+
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Olympic Experience Application</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Events</a></li>
+      <li><a href="#">Athletes</a></li>
+      <li><a href="#">Medals</a></li>
+      <li><a href="#">Analytics</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="hero">
+      <h2>Welcome to the Olympic Experience Application</h2>
+      <p>Explore the latest news, events, and statistics from the Olympic Games.</p>
+    </section>
+
+    <section id="events">
+      <h2>Upcoming Events</h2>
+      <ul>
+        <!-- Add more events dynamically using JavaScript -->
+      </ul>
+    </section>
+
+    <section id="athletes">
+      <h2>Featured Athletes</h2>
+      <ul>
+        <li>Athlete 1</li>
+        <li>Athlete 2</li>
+        <li>Athlete 3</li>
+        <!-- Add more athletes dynamically using JavaScript -->
+      </ul>
+    </section>
+
+    <section id="medals">
+      <h2>Medal Standings</h2>
+      <table>
+        <tr>
+          <th>Country</th>
+          <th>Gold</th>
+          <th>Silver</th>
+          <th>Bronze</th>
+        </tr>
+        <tr>
+          <td>Country 1</td>
+          <td>10</td>
+          <td>5</td>
+          <td>3</td>
+        </tr>
+        <table>
+<tr>
+<th>City</th>
+<th>Gold</th>
+<th>Silver</th>
+<th>Bronze</th>
+</tr>
+<tr>
+<td>China</td>
+<td>308</td>
+<td>325</td>
+<td>268</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td>168</td>
+<td>223</td>
+<td>162</td>
+</tr>
+<tr>
+<td>Denmark/Sweden</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td>277</td>
+<td>321</td>
+<td>390</td>
+</tr>
+<tr>
+<td>United States</td>
+<td>2474</td>
+<td>1512</td>
+<td>1233</td>
+</tr>
+<tr>
+<td>Finland</td>
+<td>198</td>
+<td>263</td>
+<td>415</td>
+</tr>
+<tr>
+<td>Norway</td>
+<td>299</td>
+<td>330</td>
+<td>281</td>
+</tr>
+<tr>
+<td>Romania</td>
+<td>161</td>
+<td>200</td>
+<td>290</td>
+</tr>
+<tr>
+<td>Estonia</td>
+<td>13</td>
+<td>12</td>
+<td>20</td>
+</tr>
+<tr>
+<td>France</td>
+<td>455</td>
+<td>518</td>
+<td>577</td>
+</tr>
+<tr>
+<td>Taifun</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Morocco</td>
+<td>6</td>
+<td>5</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Spain</td>
+<td>108</td>
+<td>239</td>
+<td>136</td>
+</tr>
+<tr>
+<td>Egypt</td>
+<td>7</td>
+<td>8</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Iran</td>
+<td>18</td>
+<td>21</td>
+<td>29</td>
+</tr>
+<tr>
+<td>Bulgaria</td>
+<td>54</td>
+<td>144</td>
+<td>144</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>535</td>
+<td>508</td>
+<td>484</td>
+</tr>
+<tr>
+<td>Azerbaijan</td>
+<td>7</td>
+<td>12</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Sudan</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Russia</td>
+<td>366</td>
+<td>351</td>
+<td>393</td>
+</tr>
+<tr>
+<td>Argentina</td>
+<td>91</td>
+<td>84</td>
+<td>91</td>
+</tr>
+<tr>
+<td>Cuba</td>
+<td>164</td>
+<td>127</td>
+<td>116</td>
+</tr>
+<tr>
+<td>Belarus</td>
+<td>24</td>
+<td>44</td>
+<td>71</td>
+</tr>
+<tr>
+<td>Greece</td>
+<td>42</td>
+<td>70</td>
+<td>62</td>
+</tr>
+<tr>
+<td>Cameroon</td>
+<td>20</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Turkey</td>
+<td>40</td>
+<td>27</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Chile</td>
+<td>3</td>
+<td>9</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Mexico</td>
+<td>30</td>
+<td>26</td>
+<td>51</td>
+</tr>
+<tr>
+<td>Soviet Union</td>
+<td>1058</td>
+<td>716</td>
+<td>677</td>
+</tr>
+<tr>
+<td>Hungary</td>
+<td>432</td>
+<td>330</td>
+<td>365</td>
+</tr>
+<tr>
+<td>Nigeria</td>
+<td>23</td>
+<td>30</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Algeria</td>
+<td>5</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Kuwait</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Bahrain</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Pakistan</td>
+<td>42</td>
+<td>45</td>
+<td>34</td>
+</tr>
+<tr>
+<td>Iraq</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>United Arab Republic</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Lebanon</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Qatar</td>
+<td>0</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Malaysia</td>
+<td>0</td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Germany</td>
+<td>679</td>
+<td>627</td>
+<td>678</td>
+</tr>
+<tr>
+<td>Thessalonki-1</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Canada</td>
+<td>422</td>
+<td>413</td>
+<td>408</td>
+</tr>
+<tr>
+<td>Ireland</td>
+<td>9</td>
+<td>13</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Australia</td>
+<td>342</td>
+<td>453</td>
+<td>511</td>
+</tr>
+<tr>
+<td>South Africa</td>
+<td>32</td>
+<td>47</td>
+<td>52</td>
+</tr>
+<tr>
+<td>Eritrea</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Tanzania</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Jordan</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Tunisia</td>
+<td>3</td>
+<td>3</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td>94</td>
+<td>161</td>
+<td>154</td>
+</tr>
+<tr>
+<td>Djibouti</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Kazakhstan</td>
+<td>20</td>
+<td>25</td>
+<td>32</td>
+</tr>
+<tr>
+<td>India</td>
+<td>138</td>
+<td>19</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Saudi Arabia</td>
+<td>0</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Syria</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ethiopia</td>
+<td>22</td>
+<td>9</td>
+<td>22</td>
+</tr>
+<tr>
+<td>United Arab Emirates</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Indonesia</td>
+<td>7</td>
+<td>11</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Philippines</td>
+<td>0</td>
+<td>3</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Singapore</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Uzbekistan</td>
+<td>10</td>
+<td>7</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Kyrgyzstan</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Tajikistan</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Unified Team</td>
+<td>123</td>
+<td>69</td>
+<td>79</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>247</td>
+<td>307</td>
+<td>357</td>
+</tr>
+<tr>
+<td>Japan-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Switzerland</td>
+<td>144</td>
+<td>213</td>
+<td>231</td>
+</tr>
+<tr>
+<td>Brazil</td>
+<td>103</td>
+<td>161</td>
+<td>185</td>
+</tr>
+<tr>
+<td>West Germany</td>
+<td>155</td>
+<td>184</td>
+<td>219</td>
+</tr>
+<tr>
+<td>East Germany</td>
+<td>369</td>
+<td>309</td>
+<td>263</td>
+</tr>
+<tr>
+<td>Monaco</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Fornebo</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Israel</td>
+<td>1</td>
+<td>1</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Vesper Boat Club</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Uruguay</td>
+<td>31</td>
+<td>2</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>451</td>
+<td>476</td>
+<td>507</td>
+</tr>
+<tr>
+<td>United States Virgin Islands</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sri Lanka</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Armenia</td>
+<td>2</td>
+<td>5</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Cote d'Ivoire</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Kenya</td>
+<td>34</td>
+<td>41</td>
+<td>31</td>
+</tr>
+<tr>
+<td>France-1</td>
+<td>4</td>
+<td>7</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Ukraine</td>
+<td>47</td>
+<td>52</td>
+<td>98</td>
+</tr>
+<tr>
+<td>Great Britain</td>
+<td>519</td>
+<td>582</td>
+<td>572</td>
+</tr>
+<tr>
+<td>Ghana</td>
+<td>0</td>
+<td>1</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Latvia</td>
+<td>3</td>
+<td>13</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Niger</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Afghanistan</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Poland</td>
+<td>117</td>
+<td>193</td>
+<td>253</td>
+</tr>
+<tr>
+<td>Costa Rica</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Panama</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>8</td>
+<td>6</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Slovenia</td>
+<td>8</td>
+<td>13</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Croatia</td>
+<td>58</td>
+<td>54</td>
+<td>37</td>
+</tr>
+<tr>
+<td>Russia-2</td>
+<td>2</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Russia-1</td>
+<td>22</td>
+<td>6</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Guyana</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>New Zealand</td>
+<td>85</td>
+<td>56</td>
+<td>82</td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td>4</td>
+<td>7</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Paraguay</td>
+<td>0</td>
+<td>17</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Venezuela</td>
+<td>2</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Colombia</td>
+<td>5</td>
+<td>8</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Peru</td>
+<td>1</td>
+<td>14</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Puerto Rico</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr>
+<td>France-2</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Uganda</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Switzerland-2</td>
+<td>8</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Switzerland-1</td>
+<td>20</td>
+<td>22</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Ecuador</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Mauritius</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Czechoslovakia</td>
+<td>81</td>
+<td>223</td>
+<td>182</td>
+</tr>
+<tr>
+<td>Great Britain-1</td>
+<td>20</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Luxembourg</td>
+<td>4</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Czech Republic</td>
+<td>42</td>
+<td>32</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Trinidad and Tobago</td>
+<td>7</td>
+<td>8</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Dominican Republic</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Jamaica</td>
+<td>38</td>
+<td>75</td>
+<td>44</td>
+</tr>
+<tr>
+<td>Suriname</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Nepal</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Mongolia</td>
+<td>2</td>
+<td>10</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Germany-2</td>
+<td>14</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Austria</td>
+<td>95</td>
+<td>168</td>
+<td>150</td>
+</tr>
+<tr>
+<td>Lithuania</td>
+<td>6</td>
+<td>7</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Togo</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Namibia</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Netherlands Antilles</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Iceland</td>
+<td>0</td>
+<td>15</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Great Britain-2</td>
+<td>4</td>
+<td>10</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Haiti</td>
+<td>0</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Stella-2</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>United States-1</td>
+<td>38</td>
+<td>33</td>
+<td>30</td>
+</tr>
+<tr>
+<td>United States-2</td>
+<td>17</td>
+<td>14</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Large boat, Central Naval Prep School "Poros"-1</td>
+<td>17</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Cyprus</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Indonesia-1</td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Germany-1</td>
+<td>28</td>
+<td>20</td>
+<td>22</td>
+</tr>
+<tr>
+<td>South Korea</td>
+<td>211</td>
+<td>222</td>
+<td>159</td>
+</tr>
+<tr>
+<td>Lucky Girl-1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Mutafo</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sweden-2</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sweden-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Thailand</td>
+<td>9</td>
+<td>8</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Italy-2</td>
+<td>0</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Bermuda</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Australasia</td>
+<td>20</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Union des Socits Franais de Sports Athletiques</td>
+<td>17</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Serbia and Montenegro</td>
+<td>12</td>
+<td>26</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Bissbi</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Individual Olympic Athletes</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Fiji</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>France-3</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Martha-1</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Moldova</td>
+<td>0</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Canada-2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Canada-1</td>
+<td>16</td>
+<td>8</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Yugoslavia</td>
+<td>130</td>
+<td>167</td>
+<td>93</td>
+</tr>
+<tr>
+<td>Bahamas</td>
+<td>12</td>
+<td>11</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Guatemala</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Soviet Union-2</td>
+<td>0</td>
+<td>12</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Soviet Union-1</td>
+<td>22</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Serbia</td>
+<td>15</td>
+<td>29</td>
+<td>41</td>
+</tr>
+<tr>
+<td>Mozambique</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Heatherbell</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Brazil-1</td>
+<td>6</td>
+<td>12</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Slovakia</td>
+<td>15</td>
+<td>19</td>
+<td>13</td>
+</tr>
+<tr>
+<td>USFSA</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Heira II</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nykjbings paa Falster</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Barbados</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ireland-2</td>
+<td>0</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Spain-2</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Mohawk Indians-2</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Tornado</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Elsie</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Spain-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Italy-1</td>
+<td>14</td>
+<td>8</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Mound City Rowing Club-2</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gabon</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ali-Baba II</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>East Germany-1</td>
+<td>24</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Favorite Hammonia-3</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Botswana</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Frankfurt Club</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>North Korea</td>
+<td>16</td>
+<td>16</td>
+<td>33</td>
+</tr>
+<tr>
+<td>South Korea-2</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Brazil-2</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Senegal</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Tip</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Norna</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Magda IX</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Austria-1</td>
+<td>12</td>
+<td>16</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Austria-2</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Denmark-2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Mosk II</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Elisabeth X</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sweden-3</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Ludwigshafener Ruderverein</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Latvia-1</td>
+<td>0</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Guyoni</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Greece-1</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Greece-2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>West Germany-2</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gallant</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Zimbabwe</td>
+<td>17</td>
+<td>4</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Grenada</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Hera-1</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Swedish Star</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Hong Kong</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Carabinier-15</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Kerstin-1</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>United States-3</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Zambia</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Denmark-1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Bluebottle</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>West Germany-1</td>
+<td>2</td>
+<td>10</td>
+<td>14</td>
+</tr>
+<tr>
+<td>East Germany-2</td>
+<td>4</td>
+<td>8</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Snap</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Toronto Argonauts</td>
+<td>0</td>
+<td>9</td>
+<td>9</td>
+</tr>
+<tr>
+<td>England-1</td>
+<td>11</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Poland-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Macedonia</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Bohemia</td>
+<td>0</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Argonaut Rowing Club</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Life boat naval ship "Spetsai"-1</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Australia-1</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Tonga</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Liechtenstein</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pan</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Montenegro</td>
+<td>0</td>
+<td>14</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Leander Club-2</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>London City Police-1</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Great Britain-3</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Berliner Ruderverein von 1876-2</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Christian Brothers' College-1</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Czechoslovakia-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Racing Club de France</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bingo</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Crabe II-1</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Crabe II-4</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Nina Claire-2</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Mouchette-2</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Moseley Wanderers</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Chicago Athletic Association-2</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Devon and Somerset Wanderers</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Unified Team-2</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Romania-1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Symphony</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Marinai della nave da guerra "Varese"</td>
+<td>7</td>
+<td>0</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Lalage</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gallia II</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Kullan</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Amateur Athletic Association</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Widgeon</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Czech Republic-1</td>
+<td>0</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Foxhunters Hurlingham</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Thames Rowing Club</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Erna Signe</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sirene</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Socit Nautique de Bayonne-2</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Socit Nautique de Bayonne-1</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>White Lady</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Web II</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Pistoja/Firenze</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+</tr>
+<tr>
+<td>West Indies Federation</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Tritons Lillois-2</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Boreas-2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>New York Turnverein, New York</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Italia</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Angelita</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Esterel-1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Buraddoo</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Heroine</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Burundi</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Atlanta</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Germania II</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Wannsee</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Polyteknisk Roklub-1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Nina</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Kristiania Roklub-1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ormsund Roklub-2</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Chuckles</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Chinese Taipei</td>
+<td>3</td>
+<td>28</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Winnipeg Shamrocks-1</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Olle</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Aschenbrodel</td>
+<td>4</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bera</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Slaghoken</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Slaghoken II</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Great Britain/Germany</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Swift</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Unified Team-1</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>L'Aile VI</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Cercle de l'Aviron Roubaix-4</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Caprice</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>New College, Oxford-2</td>
+<td>0</td>
+<td>9</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Vision</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Cambridge University Boat Club-2</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+</tr>
+<tr>
+<td>St. Rose-2</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Minerva Amsterdam</td>
+<td>3</td>
+<td>5</td>
+<td>9</td>
+</tr>
+<tr>
+<td>New York Athletic Club-1</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Belgium-1</td>
+<td>1</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>St. Louis Southwest Turnverein #1-2</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Jo</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Namoussa</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Netherlands-1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Royal Club Nautique de Gand</td>
+<td>0</td>
+<td>21</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Roddklubben af 1912-1</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bucintoro Venezia-1</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bucintoro Venezia</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Edelweiss II-1</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Boston Archers</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Upton Park FC</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>BLO Polo Club, Rugby</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Hurlingham-2</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Leander Club-1</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Western Rowing Club-3</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Libellule de Paris</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Amstel Amsterdam</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Scotland-3</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Liverpool Police Team-2</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+</tr>
+<tr>
+<td>United States Golf Association-3</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Trans-Mississippi Golf Association-2</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>China-2</td>
+<td>14</td>
+<td>8</td>
+<td>12</td>
+</tr>
+<tr>
+<td>China-1</td>
+<td>28</td>
+<td>14</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sarcelle-3</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Tango</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Brynhild-2</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Pupilles de Neptune de Lille #2-1</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Cobweb-1</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Vietnam</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Elvis Va</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Antwerpia V</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Oranje</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Willem-Six</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Barion/Bari-2</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>K Division Metropolitan Police Team-3</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Malaysia-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Complex II</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Quand-Mme-2</td>
+<td>0</td>
+<td>9</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Smyrna</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td>North Korea-1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Malaysia-2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Galt Football Club</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Venilia</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Cincinnati Archers</td>
+<td>4</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Osborne Swimming Club, Manchester</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Brussels Swimming and Water Polo Club</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ancora</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Wales-4</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Gem</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ballerina IV</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Chicago Athletic Association</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Santa Maria</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Dormy-1</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Jest</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Magdalen College Boat Club-1</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Western Golf Association-1</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Scotia</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Hungary-1</td>
+<td>0</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Elisabeth V</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>New York Athletic Club #1-1</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>England</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Cornwall</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Espadarte</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Kurush II</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gwendoline-2</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>United States/France</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Lerina</td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bagatelle Polo Club, Paris</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Bem II</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Hollandia</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Aphrodite</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Bonzo</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Socit Nautique de la Basse Seine-1</td>
+<td>0</td>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Univ. of Brussels</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Rowing Club Castillon-3</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Century Boat Club-1</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Phalainis ton Thorichtou "Hydra"-2</td>
+<td>0</td>
+<td>17</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Silja</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>United States/Great Britain</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Mignon-3</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Favorite-1</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+</tr>
+<tr>
+<td>St. Louis Amateur Athletic Association</td>
+<td>0</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ireland-3</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gitana-2</td>
+<td>0</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Joy</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Central Turnverein, Chicago</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Berliner Ruderclub</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>May Be</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Llanoria</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Marmi II-1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Kitty-1</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>A North American Team</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Nirefs</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Missouri Athletic Club-3</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Tutti V</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Leander Club #2-2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Encore</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Seawanhaka Boat Club-1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gem IV</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Ludwigshafener Ruder Verein-1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Leander Club #1-1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gyrinus-1</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Australia/Great Britain</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Milwaukee Athletic Club-1</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Skum</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Emily</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>St. Louis Southwest Turnverein #2-3</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>United States-4</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>South Korea-1</td>
+<td>6</td>
+<td>6</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Baby-1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Femur-1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Kosovo</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Germania Ruder Club, Hamburg-2</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Jupiter</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Philadelphia Turngemeinde, Philadelphia</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ukraine-1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Deutscher Schwimm Verband Berlin</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Shrew II</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Sylvia</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Don Schufro</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Vinga-1</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sans Atout-1</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nurdug II</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Eleda</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Beatrijs III-1</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ravenswood Boat Club-2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Irene</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sif</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Djinn</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Mascotte</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bona Fide</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Laurea-1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Sorais-2</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Minotaur</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Zut</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Tan-Fe-Pah</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ralia</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Clearwater</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Macky VI</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Nrnberg</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Rush VII</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Rush V</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ethnikos Gymnastikos Syllogos</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Bonaparte</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Hong Kong-2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Lully II</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sildra-1</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Rostock</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sunshine</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Omas Helliniki P. S.</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Pupilles de Neptune de Lille-1</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Kathleen</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Club Nautique de Lyon-2</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Starita</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Frimousse</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>France/Great Britain</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Societ Nautique de la Marne-1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Potomac Archers</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Scamasaxe-2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Scamasaxe-3</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Turquoise-1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Roehampton-1</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nadine</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Rose Pompon</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Lady C</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Hi-Hi</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Atalanta Boat Club-1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Atalanta Boat Club-2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>New York Athletic Club</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Gustel X</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Barrenjoey</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Hojwa</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Pandora</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Humbug V</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Margaret</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Comanche</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Cicely-1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ma'Lindo</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Independent Rowing Club-3</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Merope</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Merope III</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bohemia/Great Britain</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Fantlet-7</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Lyn-2</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Sunrise</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Falcon IV</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Potsdam</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>China-3</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Hilarius</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Glider</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Mac Miche</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Camille</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Formosa</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Salinero</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Satchmo</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Digby</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+</table>
+      </table>
+    </section>
+
+    <section id="analytics">
+      <h2>Analytics and Insights</h2>
+      <p>Display data visualizations, analysis, or any insights derived from your data science and machine learning
+        techniques here.</p>
+    </section>
+
+    <section id="additional-section">
+      <h2>Additional Section</h2>
+      <p>This is an additional section added for demonstration purposes.</p>
+    </section>
+
+    <section id="animation-section">
+      <h2>Animated Section</h2>
+      <p>This section has an animated effect.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Olympic Experience Application. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // JavaScript code can be added here to dynamically generate content or interact with backend services.
+  </script>
+</body>
+
+</html>
