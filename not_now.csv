@@ -1,4 +1,4 @@
-Sex,Year,City,Sport,Bronze,Gold,Silver
+Gender,Year,City,Sport,Bronze,Gold,Silver
 F,1900,Paris,Golf,1,1,1
 F,1900,Paris,Sailing,0,1,1
 F,1900,Paris,Tennis,4,2,2
