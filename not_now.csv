@@ -1,0 +1,1383 @@
+Sex,Year,City,Sport,Bronze Medals,Gold Medals,Silver Medals
+F,1900,Paris,Golf,1,1,1
+F,1900,Paris,Sailing,0,1,1
+F,1900,Paris,Tennis,4,2,2
+F,1904,St. Louis,Archery,2,6,2
+F,1906,Athina,Tennis,2,2,2
+F,1908,London,Archery,1,1,1
+F,1908,London,Figure Skating,2,2,2
+F,1908,London,Sailing,0,1,0
+F,1908,London,Tennis,2,2,2
+F,1912,Stockholm,Diving,1,1,1
+F,1912,Stockholm,Swimming,5,5,5
+F,1912,Stockholm,Tennis,4,4,4
+F,1920,Antwerpen,Art Competitions,0,0,1
+F,1920,Antwerpen,Diving,2,2,2
+F,1920,Antwerpen,Figure Skating,2,2,2
+F,1920,Antwerpen,Sailing,0,1,0
+F,1920,Antwerpen,Swimming,6,6,6
+F,1920,Antwerpen,Tennis,4,4,4
+F,1924,Chamonix,Figure Skating,2,2,2
+F,1924,Paris,Art Competitions,0,0,1
+F,1924,Paris,Diving,2,2,2
+F,1924,Paris,Fencing,1,1,1
+F,1924,Paris,Swimming,8,8,8
+F,1924,Paris,Tennis,4,4,4
+F,1928,Amsterdam,Art Competitions,2,0,1
+F,1928,Amsterdam,Athletics,8,8,8
+F,1928,Amsterdam,Diving,2,2,2
+F,1928,Amsterdam,Fencing,1,1,1
+F,1928,Amsterdam,Gymnastics,12,10,12
+F,1928,Amsterdam,Sailing,0,1,0
+F,1928,Amsterdam,Swimming,8,10,8
+F,1928,Sankt Moritz,Figure Skating,2,2,2
+F,1932,Lake Placid,Figure Skating,2,2,2
+F,1932,Los Angeles,Art Competitions,0,0,2
+F,1932,Los Angeles,Athletics,9,9,9
+F,1932,Los Angeles,Diving,2,2,2
+F,1932,Los Angeles,Fencing,1,1,1
+F,1932,Los Angeles,Swimming,8,8,8
+F,1936,Berlin,Alpinism,0,1,0
+F,1936,Berlin,Athletics,9,9,9
+F,1936,Berlin,Diving,2,2,2
+F,1936,Berlin,Fencing,1,1,1
+F,1936,Berlin,Gymnastics,8,8,8
+F,1936,Berlin,Sailing,1,0,0
+F,1936,Berlin,Swimming,9,8,9
+F,1936,Garmisch-Partenkirchen,Alpine Skiing,1,1,1
+F,1936,Garmisch-Partenkirchen,Figure Skating,2,2,2
+F,1948,London,Art Competitions,3,1,0
+F,1948,London,Athletics,12,12,12
+F,1948,London,Canoeing,1,1,1
+F,1948,London,Diving,2,2,2
+F,1948,London,Fencing,1,1,1
+F,1948,London,Gymnastics,8,8,8
+F,1948,London,Swimming,8,8,9
+F,1948,Sankt Moritz,Alpine Skiing,3,3,3
+F,1948,Sankt Moritz,Figure Skating,2,2,2
+F,1952,Helsinki,Athletics,12,12,12
+F,1952,Helsinki,Canoeing,1,1,1
+F,1952,Helsinki,Diving,2,2,2
+F,1952,Helsinki,Equestrianism,1,0,1
+F,1952,Helsinki,Fencing,1,1,1
+F,1952,Helsinki,Gymnastics,21,21,21
+F,1952,Helsinki,Sailing,0,1,1
+F,1952,Helsinki,Swimming,8,9,8
+F,1952,Oslo,Alpine Skiing,3,3,3
+F,1952,Oslo,Cross Country Skiing,1,1,1
+F,1952,Oslo,Figure Skating,2,2,2
+F,1956,Cortina d'Ampezzo,Alpine Skiing,3,3,3
+F,1956,Cortina d'Ampezzo,Cross Country Skiing,4,4,4
+F,1956,Cortina d'Ampezzo,Figure Skating,2,2,2
+F,1956,Melbourne,Athletics,11,12,13
+F,1956,Melbourne,Canoeing,1,1,1
+F,1956,Melbourne,Diving,2,2,2
+F,1956,Melbourne,Fencing,1,1,1
+F,1956,Melbourne,Gymnastics,23,18,17
+F,1956,Melbourne,Swimming,9,11,12
+F,1956,Stockholm,Equestrianism,2,0,4
+F,1960,Roma,Athletics,12,13,14
+F,1960,Roma,Canoeing,3,3,3
+F,1960,Roma,Diving,2,2,2
+F,1960,Roma,Fencing,6,7,6
+F,1960,Roma,Gymnastics,11,11,11
+F,1960,Roma,Swimming,13,20,17
+F,1960,Squaw Valley,Alpine Skiing,3,3,3
+F,1960,Squaw Valley,Cross Country Skiing,4,4,4
+F,1960,Squaw Valley,Figure Skating,2,2,2
+F,1960,Squaw Valley,Speed Skating,4,4,4
+F,1964,Innsbruck,Alpine Skiing,2,3,4
+F,1964,Innsbruck,Cross Country Skiing,5,5,5
+F,1964,Innsbruck,Figure Skating,2,2,3
+F,1964,Innsbruck,Luge,1,1,1
+F,1964,Innsbruck,Speed Skating,3,4,5
+F,1964,Tokyo,Athletics,15,15,15
+F,1964,Tokyo,Canoeing,3,3,3
+F,1964,Tokyo,Diving,2,2,2
+F,1964,Tokyo,Equestrianism,0,0,3
+F,1964,Tokyo,Fencing,5,6,6
+F,1964,Tokyo,Gymnastics,10,11,12
+F,1964,Tokyo,Swimming,15,22,16
+F,1964,Tokyo,Volleyball,10,12,12
+F,1968,Grenoble,Alpine Skiing,3,3,3
+F,1968,Grenoble,Cross Country Skiing,5,5,5
+F,1968,Grenoble,Figure Skating,2,2,2
+F,1968,Grenoble,Luge,1,1,1
+F,1968,Grenoble,Speed Skating,3,4,6
+F,1968,Mexico City,Athletics,15,15,15
+F,1968,Mexico City,Canoeing,3,3,3
+F,1968,Mexico City,Diving,2,2,2
+F,1968,Mexico City,Equestrianism,1,2,3
+F,1968,Mexico City,Fencing,6,6,6
+F,1968,Mexico City,Gymnastics,11,12,10
+F,1968,Mexico City,Swimming,20,24,22
+F,1968,Mexico City,Volleyball,12,11,9
+F,1972,Munich,Archery,1,1,1
+F,1972,Munich,Athletics,20,20,20
+F,1972,Munich,Canoeing,4,4,4
+F,1972,Munich,Diving,2,2,2
+F,1972,Munich,Equestrianism,3,4,5
+F,1972,Munich,Fencing,5,6,6
+F,1972,Munich,Gymnastics,10,11,12
+F,1972,Munich,Swimming,23,27,22
+F,1972,Munich,Volleyball,11,12,12
+F,1972,Sapporo,Alpine Skiing,3,3,3
+F,1972,Sapporo,Cross Country Skiing,5,5,5
+F,1972,Sapporo,Figure Skating,2,2,2
+F,1972,Sapporo,Luge,1,1,1
+F,1972,Sapporo,Speed Skating,4,4,4
+F,1976,Innsbruck,Alpine Skiing,3,3,3
+F,1976,Innsbruck,Cross Country Skiing,6,6,6
+F,1976,Innsbruck,Figure Skating,3,3,3
+F,1976,Innsbruck,Luge,1,1,1
+F,1976,Innsbruck,Speed Skating,4,4,4
+F,1976,Montreal,Archery,1,1,1
+F,1976,Montreal,Athletics,20,20,20
+F,1976,Montreal,Basketball,12,12,12
+F,1976,Montreal,Canoeing,3,3,3
+F,1976,Montreal,Diving,2,2,2
+F,1976,Montreal,Equestrianism,3,3,2
+F,1976,Montreal,Fencing,6,6,6
+F,1976,Montreal,Gymnastics,10,11,12
+F,1976,Montreal,Handball,14,14,14
+F,1976,Montreal,Rowing,24,24,24
+F,1976,Montreal,Shooting,0,0,1
+F,1976,Montreal,Swimming,21,23,21
+F,1976,Montreal,Volleyball,12,12,12
+F,1980,Lake Placid,Alpine Skiing,3,3,3
+F,1980,Lake Placid,Cross Country Skiing,6,6,6
+F,1980,Lake Placid,Figure Skating,3,3,3
+F,1980,Lake Placid,Luge,1,1,1
+F,1980,Lake Placid,Speed Skating,4,4,4
+F,1980,Moskva,Archery,1,1,1
+F,1980,Moskva,Athletics,20,22,20
+F,1980,Moskva,Basketball,12,12,12
+F,1980,Moskva,Canoeing,3,3,3
+F,1980,Moskva,Diving,2,2,2
+F,1980,Moskva,Equestrianism,1,2,2
+F,1980,Moskva,Fencing,6,6,6
+F,1980,Moskva,Gymnastics,13,12,11
+F,1980,Moskva,Handball,14,13,14
+F,1980,Moskva,Hockey,16,15,16
+F,1980,Moskva,Rowing,25,25,25
+F,1980,Moskva,Swimming,21,21,21
+F,1980,Moskva,Volleyball,10,11,12
+F,1984,Los Angeles,Archery,1,1,1
+F,1984,Los Angeles,Athletics,26,25,24
+F,1984,Los Angeles,Basketball,12,12,11
+F,1984,Los Angeles,Canoeing,7,7,7
+F,1984,Los Angeles,Cycling,1,1,1
+F,1984,Los Angeles,Diving,2,2,2
+F,1984,Los Angeles,Equestrianism,6,4,7
+F,1984,Los Angeles,Fencing,6,6,6
+F,1984,Los Angeles,Gymnastics,11,13,9
+F,1984,Los Angeles,Handball,13,15,13
+F,1984,Los Angeles,Hockey,16,16,16
+F,1984,Los Angeles,Rhythmic Gymnastics,1,1,1
+F,1984,Los Angeles,Rowing,24,24,24
+F,1984,Los Angeles,Shooting,3,3,3
+F,1984,Los Angeles,Swimming,20,27,20
+F,1984,Los Angeles,Synchronized Swimming,3,3,3
+F,1984,Los Angeles,Volleyball,12,10,12
+F,1984,Sarajevo,Alpine Skiing,3,3,3
+F,1984,Sarajevo,Cross Country Skiing,7,7,7
+F,1984,Sarajevo,Figure Skating,3,3,3
+F,1984,Sarajevo,Luge,1,1,1
+F,1984,Sarajevo,Speed Skating,4,4,4
+F,1988,Calgary,Alpine Skiing,5,5,5
+F,1988,Calgary,Cross Country Skiing,7,7,7
+F,1988,Calgary,Figure Skating,3,3,3
+F,1988,Calgary,Luge,1,1,1
+F,1988,Calgary,Speed Skating,5,5,5
+F,1988,Seoul,Archery,4,4,4
+F,1988,Seoul,Athletics,25,26,26
+F,1988,Seoul,Basketball,12,12,12
+F,1988,Seoul,Canoeing,7,7,7
+F,1988,Seoul,Cycling,2,2,2
+F,1988,Seoul,Diving,2,2,2
+F,1988,Seoul,Equestrianism,8,4,6
+F,1988,Seoul,Fencing,6,6,6
+F,1988,Seoul,Gymnastics,12,11,11
+F,1988,Seoul,Handball,15,12,14
+F,1988,Seoul,Hockey,16,16,16
+F,1988,Seoul,Rhythmic Gymnastics,1,1,1
+F,1988,Seoul,Rowing,26,23,26
+F,1988,Seoul,Sailing,2,2,2
+F,1988,Seoul,Shooting,4,4,4
+F,1988,Seoul,Swimming,26,25,25
+F,1988,Seoul,Synchronized Swimming,3,3,3
+F,1988,Seoul,Table Tennis,3,3,3
+F,1988,Seoul,Tennis,6,3,3
+F,1988,Seoul,Volleyball,11,12,12
+F,1992,Albertville,Alpine Skiing,4,5,6
+F,1992,Albertville,Biathlon,5,5,5
+F,1992,Albertville,Cross Country Skiing,8,8,8
+F,1992,Albertville,Figure Skating,3,3,3
+F,1992,Albertville,Freestyle Skiing,1,1,1
+F,1992,Albertville,Luge,1,1,1
+F,1992,Albertville,Short Track Speed Skating,5,5,5
+F,1992,Albertville,Speed Skating,5,5,5
+F,1992,Barcelona,Archery,4,4,4
+F,1992,Barcelona,Athletics,25,28,27
+F,1992,Barcelona,Badminton,6,3,3
+F,1992,Barcelona,Basketball,12,12,11
+F,1992,Barcelona,Canoeing,8,8,8
+F,1992,Barcelona,Cycling,3,3,3
+F,1992,Barcelona,Diving,2,2,2
+F,1992,Barcelona,Equestrianism,2,5,6
+F,1992,Barcelona,Fencing,6,6,6
+F,1992,Barcelona,Gymnastics,12,12,11
+F,1992,Barcelona,Handball,13,13,14
+F,1992,Barcelona,Hockey,16,15,16
+F,1992,Barcelona,Judo,14,7,7
+F,1992,Barcelona,Rhythmic Gymnastics,1,1,1
+F,1992,Barcelona,Rowing,22,22,22
+F,1992,Barcelona,Sailing,4,4,4
+F,1992,Barcelona,Shooting,4,5,4
+F,1992,Barcelona,Swimming,24,27,25
+F,1992,Barcelona,Synchronized Swimming,3,4,2
+F,1992,Barcelona,Table Tennis,6,3,3
+F,1992,Barcelona,Tennis,6,3,3
+F,1992,Barcelona,Volleyball,12,10,8
+F,1994,Lillehammer,Alpine Skiing,5,5,5
+F,1994,Lillehammer,Biathlon,6,6,6
+F,1994,Lillehammer,Cross Country Skiing,8,8,8
+F,1994,Lillehammer,Figure Skating,3,3,3
+F,1994,Lillehammer,Freestyle Skiing,2,2,2
+F,1994,Lillehammer,Luge,1,1,1
+F,1994,Lillehammer,Short Track Speed Skating,6,6,6
+F,1994,Lillehammer,Speed Skating,5,5,5
+F,1996,Atlanta,Archery,4,4,4
+F,1996,Atlanta,Athletics,28,28,27
+F,1996,Atlanta,Badminton,4,4,4
+F,1996,Atlanta,Basketball,12,12,12
+F,1996,Atlanta,Beach Volleyball,2,2,2
+F,1996,Atlanta,Canoeing,8,8,8
+F,1996,Atlanta,Cycling,6,6,6
+F,1996,Atlanta,Diving,2,2,2
+F,1996,Atlanta,Equestrianism,4,5,9
+F,1996,Atlanta,Fencing,8,8,8
+F,1996,Atlanta,Football,16,15,15
+F,1996,Atlanta,Gymnastics,11,12,13
+F,1996,Atlanta,Handball,16,15,16
+F,1996,Atlanta,Hockey,16,16,16
+F,1996,Atlanta,Judo,14,7,7
+F,1996,Atlanta,Rhythmic Gymnastics,7,7,7
+F,1996,Atlanta,Rowing,20,20,20
+F,1996,Atlanta,Sailing,4,4,4
+F,1996,Atlanta,Shooting,5,5,5
+F,1996,Atlanta,Softball,15,15,15
+F,1996,Atlanta,Swimming,27,34,29
+F,1996,Atlanta,Synchronized Swimming,9,10,9
+F,1996,Atlanta,Table Tennis,3,3,3
+F,1996,Atlanta,Tennis,3,3,3
+F,1996,Atlanta,Volleyball,12,10,9
+F,1998,Nagano,Alpine Skiing,5,5,5
+F,1998,Nagano,Biathlon,6,6,6
+F,1998,Nagano,Cross Country Skiing,8,8,8
+F,1998,Nagano,Curling,5,5,5
+F,1998,Nagano,Figure Skating,3,3,3
+F,1998,Nagano,Freestyle Skiing,2,2,2
+F,1998,Nagano,Ice Hockey,20,20,20
+F,1998,Nagano,Luge,1,1,1
+F,1998,Nagano,Short Track Speed Skating,6,6,6
+F,1998,Nagano,Snowboarding,2,2,2
+F,1998,Nagano,Speed Skating,5,5,5
+F,2000,Sydney,Archery,4,4,4
+F,2000,Sydney,Athletics,31,29,32
+F,2000,Sydney,Badminton,4,4,4
+F,2000,Sydney,Basketball,12,11,12
+F,2000,Sydney,Beach Volleyball,2,2,2
+F,2000,Sydney,Canoeing,8,8,8
+F,2000,Sydney,Cycling,7,7,7
+F,2000,Sydney,Diving,6,6,6
+F,2000,Sydney,Equestrianism,6,5,7
+F,2000,Sydney,Fencing,8,9,9
+F,2000,Sydney,Football,17,17,13
+F,2000,Sydney,Gymnastics,11,11,11
+F,2000,Sydney,Handball,15,15,15
+F,2000,Sydney,Hockey,16,16,16
+F,2000,Sydney,Judo,14,7,7
+F,2000,Sydney,Modern Pentathlon,1,1,1
+F,2000,Sydney,Rhythmic Gymnastics,7,7,7
+F,2000,Sydney,Rowing,20,20,20
+F,2000,Sydney,Sailing,4,4,4
+F,2000,Sydney,Shooting,7,7,7
+F,2000,Sydney,Softball,15,15,15
+F,2000,Sydney,Swimming,30,33,31
+F,2000,Sydney,Synchronized Swimming,10,10,11
+F,2000,Sydney,Table Tennis,3,3,3
+F,2000,Sydney,Taekwondo,4,4,4
+F,2000,Sydney,Tennis,3,3,3
+F,2000,Sydney,Trampolining,1,1,1
+F,2000,Sydney,Triathlon,1,1,1
+F,2000,Sydney,Volleyball,12,8,12
+F,2000,Sydney,Water Polo,13,13,13
+F,2000,Sydney,Weightlifting,7,7,7
+F,2002,Salt Lake City,Alpine Skiing,5,5,5
+F,2002,Salt Lake City,Biathlon,7,7,7
+F,2002,Salt Lake City,Bobsleigh,2,2,2
+F,2002,Salt Lake City,Cross Country Skiing,9,9,9
+F,2002,Salt Lake City,Curling,5,5,5
+F,2002,Salt Lake City,Figure Skating,3,4,2
+F,2002,Salt Lake City,Freestyle Skiing,2,2,2
+F,2002,Salt Lake City,Ice Hockey,20,20,20
+F,2002,Salt Lake City,Luge,1,1,1
+F,2002,Salt Lake City,Short Track Speed Skating,8,7,7
+F,2002,Salt Lake City,Skeleton,1,1,1
+F,2002,Salt Lake City,Snowboarding,2,2,2
+F,2002,Salt Lake City,Speed Skating,5,5,5
+F,2004,Athina,Archery,4,4,4
+F,2004,Athina,Athletics,28,30,30
+F,2004,Athina,Badminton,4,4,4
+F,2004,Athina,Basketball,12,12,12
+F,2004,Athina,Beach Volleyball,2,2,2
+F,2004,Athina,Canoeing,8,8,8
+F,2004,Athina,Cycling,7,7,7
+F,2004,Athina,Diving,6,6,6
+F,2004,Athina,Equestrianism,7,4,7
+F,2004,Athina,Fencing,7,7,6
+F,2004,Athina,Football,17,17,17
+F,2004,Athina,Gymnastics,11,11,11
+F,2004,Athina,Handball,15,15,15
+F,2004,Athina,Hockey,16,16,16
+F,2004,Athina,Judo,14,7,7
+F,2004,Athina,Modern Pentathlon,1,1,1
+F,2004,Athina,Rhythmic Gymnastics,7,7,7
+F,2004,Athina,Rowing,20,20,20
+F,2004,Athina,Sailing,7,7,7
+F,2004,Athina,Shooting,7,7,7
+F,2004,Athina,Softball,14,15,15
+F,2004,Athina,Swimming,29,32,33
+F,2004,Athina,Synchronized Swimming,11,11,11
+F,2004,Athina,Table Tennis,3,3,3
+F,2004,Athina,Taekwondo,4,4,4
+F,2004,Athina,Tennis,3,3,3
+F,2004,Athina,Trampolining,1,1,1
+F,2004,Athina,Triathlon,1,1,1
+F,2004,Athina,Volleyball,12,12,10
+F,2004,Athina,Water Polo,12,13,13
+F,2004,Athina,Weightlifting,7,7,7
+F,2004,Athina,Wrestling,4,4,4
+F,2006,Torino,Alpine Skiing,5,5,5
+F,2006,Torino,Biathlon,8,8,8
+F,2006,Torino,Bobsleigh,2,2,2
+F,2006,Torino,Cross Country Skiing,10,10,10
+F,2006,Torino,Curling,5,4,4
+F,2006,Torino,Figure Skating,3,3,3
+F,2006,Torino,Freestyle Skiing,2,2,2
+F,2006,Torino,Ice Hockey,20,20,20
+F,2006,Torino,Luge,1,1,1
+F,2006,Torino,Short Track Speed Skating,7,8,8
+F,2006,Torino,Skeleton,1,1,1
+F,2006,Torino,Snowboarding,3,3,3
+F,2006,Torino,Speed Skating,10,10,10
+F,2008,Beijing,Archery,4,4,4
+F,2008,Beijing,Athletics,30,30,32
+F,2008,Beijing,Badminton,4,4,4
+F,2008,Beijing,Basketball,12,12,12
+F,2008,Beijing,Beach Volleyball,2,2,2
+F,2008,Beijing,Canoeing,8,8,8
+F,2008,Beijing,Cycling,7,7,7
+F,2008,Beijing,Diving,6,6,6
+F,2008,Beijing,Equestrianism,10,7,8
+F,2008,Beijing,Fencing,10,11,10
+F,2008,Beijing,Football,16,17,18
+F,2008,Beijing,Gymnastics,11,11,11
+F,2008,Beijing,Handball,14,14,14
+F,2008,Beijing,Hockey,16,16,16
+F,2008,Beijing,Judo,14,7,7
+F,2008,Beijing,Modern Pentathlon,1,1,1
+F,2008,Beijing,Rhythmic Gymnastics,7,7,7
+F,2008,Beijing,Rowing,20,20,20
+F,2008,Beijing,Sailing,7,7,7
+F,2008,Beijing,Shooting,6,6,6
+F,2008,Beijing,Softball,15,15,15
+F,2008,Beijing,Swimming,31,35,33
+F,2008,Beijing,Synchronized Swimming,11,11,10
+F,2008,Beijing,Table Tennis,4,4,4
+F,2008,Beijing,Taekwondo,8,4,4
+F,2008,Beijing,Tennis,3,3,3
+F,2008,Beijing,Trampolining,1,1,1
+F,2008,Beijing,Triathlon,1,1,1
+F,2008,Beijing,Volleyball,12,12,12
+F,2008,Beijing,Water Polo,13,12,13
+F,2008,Beijing,Weightlifting,7,7,7
+F,2008,Beijing,Wrestling,8,4,4
+F,2010,Vancouver,Alpine Skiing,5,5,5
+F,2010,Vancouver,Biathlon,8,8,8
+F,2010,Vancouver,Bobsleigh,2,2,2
+F,2010,Vancouver,Cross Country Skiing,10,10,10
+F,2010,Vancouver,Curling,4,4,5
+F,2010,Vancouver,Figure Skating,3,3,3
+F,2010,Vancouver,Freestyle Skiing,3,3,3
+F,2010,Vancouver,Ice Hockey,19,21,21
+F,2010,Vancouver,Luge,1,1,1
+F,2010,Vancouver,Short Track Speed Skating,8,7,7
+F,2010,Vancouver,Skeleton,1,1,1
+F,2010,Vancouver,Snowboarding,3,3,3
+F,2010,Vancouver,Speed Skating,8,9,8
+F,2012,London,Archery,4,4,4
+F,2012,London,Athletics,30,33,33
+F,2012,London,Badminton,4,4,4
+F,2012,London,Basketball,12,12,12
+F,2012,London,Beach Volleyball,2,2,2
+F,2012,London,Boxing,6,3,3
+F,2012,London,Canoeing,9,9,9
+F,2012,London,Cycling,12,12,13
+F,2012,London,Diving,6,6,6
+F,2012,London,Equestrianism,6,5,9
+F,2012,London,Fencing,11,11,11
+F,2012,London,Football,18,17,18
+F,2012,London,Gymnastics,10,10,10
+F,2012,London,Handball,15,14,14
+F,2012,London,Hockey,16,16,15
+F,2012,London,Judo,14,7,7
+F,2012,London,Modern Pentathlon,1,1,1
+F,2012,London,Rhythmic Gymnastics,7,7,7
+F,2012,London,Rowing,20,20,20
+F,2012,London,Sailing,7,7,7
+F,2012,London,Shooting,6,6,6
+F,2012,London,Swimming,30,35,32
+F,2012,London,Synchronized Swimming,10,11,11
+F,2012,London,Table Tennis,4,4,4
+F,2012,London,Taekwondo,8,4,4
+F,2012,London,Tennis,4,4,4
+F,2012,London,Trampolining,1,1,1
+F,2012,London,Triathlon,1,1,1
+F,2012,London,Volleyball,12,12,12
+F,2012,London,Water Polo,13,12,12
+F,2012,London,Weightlifting,7,7,7
+F,2012,London,Wrestling,8,4,4
+F,2014,Sochi,Alpine Skiing,5,6,4
+F,2014,Sochi,Biathlon,10,10,10
+F,2014,Sochi,Bobsleigh,2,2,2
+F,2014,Sochi,Cross Country Skiing,10,10,10
+F,2014,Sochi,Curling,4,4,4
+F,2014,Sochi,Figure Skating,7,8,7
+F,2014,Sochi,Freestyle Skiing,5,5,5
+F,2014,Sochi,Ice Hockey,19,20,20
+F,2014,Sochi,Luge,2,2,2
+F,2014,Sochi,Short Track Speed Skating,7,8,7
+F,2014,Sochi,Skeleton,1,1,1
+F,2014,Sochi,Ski Jumping,1,1,1
+F,2014,Sochi,Snowboarding,5,5,5
+F,2014,Sochi,Speed Skating,9,9,9
+F,2016,Rio de Janeiro,Archery,4,4,4
+F,2016,Rio de Janeiro,Athletics,30,32,33
+F,2016,Rio de Janeiro,Badminton,4,4,4
+F,2016,Rio de Janeiro,Basketball,12,12,12
+F,2016,Rio de Janeiro,Beach Volleyball,2,2,2
+F,2016,Rio de Janeiro,Boxing,6,3,3
+F,2016,Rio de Janeiro,Canoeing,9,9,9
+F,2016,Rio de Janeiro,Cycling,14,13,13
+F,2016,Rio de Janeiro,Diving,6,6,6
+F,2016,Rio de Janeiro,Equestrianism,5,5,8
+F,2016,Rio de Janeiro,Fencing,11,11,11
+F,2016,Rio de Janeiro,Football,18,18,18
+F,2016,Rio de Janeiro,Golf,1,1,1
+F,2016,Rio de Janeiro,Gymnastics,10,10,10
+F,2016,Rio de Janeiro,Handball,14,15,16
+F,2016,Rio de Janeiro,Hockey,17,16,16
+F,2016,Rio de Janeiro,Judo,14,7,7
+F,2016,Rio de Janeiro,Modern Pentathlon,1,1,1
+F,2016,Rio de Janeiro,Rhythmic Gymnastics,6,6,6
+F,2016,Rio de Janeiro,Rowing,20,20,20
+F,2016,Rio de Janeiro,Rugby Sevens,12,12,12
+F,2016,Rio de Janeiro,Sailing,7,7,7
+F,2016,Rio de Janeiro,Shooting,6,6,6
+F,2016,Rio de Janeiro,Swimming,30,35,32
+F,2016,Rio de Janeiro,Synchronized Swimming,10,11,11
+F,2016,Rio de Janeiro,Table Tennis,4,4,4
+F,2016,Rio de Janeiro,Taekwondo,8,4,4
+F,2016,Rio de Janeiro,Tennis,4,4,4
+F,2016,Rio de Janeiro,Trampolining,1,1,1
+F,2016,Rio de Janeiro,Triathlon,1,1,1
+F,2016,Rio de Janeiro,Volleyball,12,12,12
+F,2016,Rio de Janeiro,Water Polo,13,13,13
+F,2016,Rio de Janeiro,Weightlifting,7,7,7
+F,2016,Rio de Janeiro,Wrestling,12,6,6
+M,1896,Athina,Athletics,12,12,13
+M,1896,Athina,Cycling,4,6,6
+M,1896,Athina,Fencing,3,3,3
+M,1896,Athina,Gymnastics,5,26,6
+M,1896,Athina,Shooting,5,5,5
+M,1896,Athina,Swimming,2,4,4
+M,1896,Athina,Tennis,4,3,3
+M,1896,Athina,Weightlifting,2,2,2
+M,1896,Athina,Wrestling,1,1,1
+M,1900,Paris,Archery,5,7,8
+M,1900,Paris,Athletics,22,27,27
+M,1900,Paris,Basque Pelota,0,2,0
+M,1900,Paris,Cricket,0,12,12
+M,1900,Paris,Croquet,2,4,2
+M,1900,Paris,Cycling,3,3,3
+M,1900,Paris,Equestrianism,5,6,4
+M,1900,Paris,Fencing,7,7,7
+M,1900,Paris,Football,11,11,13
+M,1900,Paris,Golf,1,1,1
+M,1900,Paris,Gymnastics,1,1,1
+M,1900,Paris,Polo,8,5,4
+M,1900,Paris,Rowing,24,23,21
+M,1900,Paris,Rugby,0,17,30
+M,1900,Paris,Sailing,32,28,43
+M,1900,Paris,Shooting,16,16,17
+M,1900,Paris,Swimming,10,10,11
+M,1900,Paris,Tennis,8,4,4
+M,1900,Paris,Tug-Of-War,0,6,6
+M,1900,Paris,Water Polo,15,7,10
+M,1904,St. Louis,Archery,6,6,6
+M,1904,St. Louis,Athletics,23,28,28
+M,1904,St. Louis,Boxing,4,7,7
+M,1904,St. Louis,Cycling,7,7,7
+M,1904,St. Louis,Diving,1,1,1
+M,1904,St. Louis,Fencing,4,7,7
+M,1904,St. Louis,Football,12,13,11
+M,1904,St. Louis,Golf,12,11,11
+M,1904,St. Louis,Gymnastics,17,19,15
+M,1904,St. Louis,Lacrosse,12,12,12
+M,1904,St. Louis,Roque,1,1,1
+M,1904,St. Louis,Rowing,9,18,18
+M,1904,St. Louis,Swimming,13,13,13
+M,1904,St. Louis,Tennis,6,3,3
+M,1904,St. Louis,Tug-Of-War,5,5,5
+M,1904,St. Louis,Water Polo,7,7,7
+M,1904,St. Louis,Weightlifting,2,2,2
+M,1904,St. Louis,Wrestling,7,7,7
+M,1906,Athina,Athletics,21,21,23
+M,1906,Athina,Cycling,7,7,7
+M,1906,Athina,Diving,1,1,1
+M,1906,Athina,Fencing,13,14,14
+M,1906,Athina,Football,11,12,11
+M,1906,Athina,Gymnastics,12,23,21
+M,1906,Athina,Rowing,35,36,36
+M,1906,Athina,Shooting,16,16,16
+M,1906,Athina,Swimming,7,7,7
+M,1906,Athina,Tennis,4,4,4
+M,1906,Athina,Tug-Of-War,8,8,8
+M,1906,Athina,Weightlifting,4,2,2
+M,1906,Athina,Wrestling,4,4,4
+M,1908,London,Archery,2,2,2
+M,1908,London,Athletics,33,34,34
+M,1908,London,Boxing,5,5,5
+M,1908,London,Cycling,10,10,10
+M,1908,London,Diving,3,2,2
+M,1908,London,Fencing,14,14,13
+M,1908,London,Figure Skating,3,3,3
+M,1908,London,Football,12,11,13
+M,1908,London,Gymnastics,27,39,31
+M,1908,London,Hockey,22,11,12
+M,1908,London,Jeu De Paume,1,1,1
+M,1908,London,Lacrosse,0,12,12
+M,1908,London,Motorboating,0,7,0
+M,1908,London,Polo,0,4,8
+M,1908,London,Racquets,4,3,3
+M,1908,London,Rowing,32,16,16
+M,1908,London,Rugby,0,15,15
+M,1908,London,Sailing,8,21,18
+M,1908,London,Shooting,36,39,39
+M,1908,London,Swimming,9,9,9
+M,1908,London,Tennis,6,6,6
+M,1908,London,Tug-Of-War,8,8,8
+M,1908,London,Water Polo,7,7,7
+M,1908,London,Wrestling,9,9,9
+M,1912,Stockholm,Art Competitions,0,6,1
+M,1912,Stockholm,Athletics,42,53,48
+M,1912,Stockholm,Cycling,10,13,13
+M,1912,Stockholm,Diving,3,3,3
+M,1912,Stockholm,Equestrianism,11,11,11
+M,1912,Stockholm,Fencing,14,17,16
+M,1912,Stockholm,Football,15,14,15
+M,1912,Stockholm,Gymnastics,66,67,65
+M,1912,Stockholm,Modern Pentathlon,1,1,1
+M,1912,Stockholm,Rowing,26,20,20
+M,1912,Stockholm,Sailing,22,26,25
+M,1912,Stockholm,Shooting,48,48,48
+M,1912,Stockholm,Swimming,10,10,10
+M,1912,Stockholm,Tennis,8,8,8
+M,1912,Stockholm,Tug-Of-War,0,8,8
+M,1912,Stockholm,Water Polo,9,7,7
+M,1912,Stockholm,Wrestling,5,4,6
+M,1920,Antwerpen,Archery,10,41,29
+M,1920,Antwerpen,Art Competitions,3,3,4
+M,1920,Antwerpen,Athletics,44,44,45
+M,1920,Antwerpen,Boxing,8,8,8
+M,1920,Antwerpen,Cycling,13,13,13
+M,1920,Antwerpen,Diving,3,3,3
+M,1920,Antwerpen,Equestrianism,14,14,14
+M,1920,Antwerpen,Fencing,22,28,22
+M,1920,Antwerpen,Figure Skating,2,2,2
+M,1920,Antwerpen,Football,14,14,18
+M,1920,Antwerpen,Gymnastics,51,72,75
+M,1920,Antwerpen,Hockey,14,14,12
+M,1920,Antwerpen,Ice Hockey,8,8,11
+M,1920,Antwerpen,Modern Pentathlon,1,1,1
+M,1920,Antwerpen,Polo,4,4,5
+M,1920,Antwerpen,Rowing,20,20,20
+M,1920,Antwerpen,Rugby,0,16,15
+M,1920,Antwerpen,Sailing,8,63,24
+M,1920,Antwerpen,Shooting,66,66,66
+M,1920,Antwerpen,Swimming,10,10,11
+M,1920,Antwerpen,Tennis,4,4,4
+M,1920,Antwerpen,Tug-Of-War,8,8,8
+M,1920,Antwerpen,Water Polo,10,7,8
+M,1920,Antwerpen,Weightlifting,5,5,5
+M,1920,Antwerpen,Wrestling,11,10,10
+M,1924,Chamonix,Alpinism,0,21,0
+M,1924,Chamonix,Bobsleigh,5,4,4
+M,1924,Chamonix,Cross Country Skiing,2,2,2
+M,1924,Chamonix,Curling,4,4,8
+M,1924,Chamonix,Figure Skating,2,2,2
+M,1924,Chamonix,Ice Hockey,10,9,9
+M,1924,Chamonix,Military Ski Patrol,4,4,4
+M,1924,Chamonix,Nordic Combined,1,1,1
+M,1924,Chamonix,Ski Jumping,1,1,1
+M,1924,Chamonix,Speed Skating,6,5,5
+M,1924,Paris,Art Competitions,6,3,5
+M,1924,Paris,Athletics,43,43,43
+M,1924,Paris,Boxing,8,8,8
+M,1924,Paris,Cycling,13,13,13
+M,1924,Paris,Diving,3,3,3
+M,1924,Paris,Equestrianism,11,11,11
+M,1924,Paris,Fencing,20,26,23
+M,1924,Paris,Football,18,14,15
+M,1924,Paris,Gymnastics,16,16,17
+M,1924,Paris,Modern Pentathlon,1,1,1
+M,1924,Paris,Polo,4,5,4
+M,1924,Paris,Rowing,24,27,26
+M,1924,Paris,Rugby,16,19,19
+M,1924,Paris,Sailing,9,9,9
+M,1924,Paris,Shooting,25,25,25
+M,1924,Paris,Swimming,11,10,10
+M,1924,Paris,Tennis,4,4,4
+M,1924,Paris,Water Polo,9,7,11
+M,1924,Paris,Weightlifting,5,5,5
+M,1924,Paris,Wrestling,13,13,13
+M,1928,Amsterdam,Art Competitions,9,9,9
+M,1928,Amsterdam,Athletics,28,28,28
+M,1928,Amsterdam,Boxing,8,8,8
+M,1928,Amsterdam,Cycling,13,13,14
+M,1928,Amsterdam,Diving,2,2,2
+M,1928,Amsterdam,Equestrianism,12,12,12
+M,1928,Amsterdam,Fencing,20,21,21
+M,1928,Amsterdam,Football,17,17,16
+M,1928,Amsterdam,Gymnastics,14,14,14
+M,1928,Amsterdam,Hockey,19,14,11
+M,1928,Amsterdam,Modern Pentathlon,1,1,1
+M,1928,Amsterdam,Rowing,26,26,26
+M,1928,Amsterdam,Sailing,12,10,11
+M,1928,Amsterdam,Swimming,9,11,10
+M,1928,Amsterdam,Water Polo,9,8,7
+M,1928,Amsterdam,Weightlifting,5,6,4
+M,1928,Amsterdam,Wrestling,13,13,13
+M,1928,Sankt Moritz,Bobsleigh,5,5,5
+M,1928,Sankt Moritz,Cross Country Skiing,2,2,2
+M,1928,Sankt Moritz,Figure Skating,2,2,2
+M,1928,Sankt Moritz,Ice Hockey,12,12,12
+M,1928,Sankt Moritz,Nordic Combined,1,1,1
+M,1928,Sankt Moritz,Skeleton,1,1,1
+M,1928,Sankt Moritz,Ski Jumping,1,1,1
+M,1928,Sankt Moritz,Speed Skating,5,4,2
+M,1932,Lake Placid,Bobsleigh,6,6,6
+M,1932,Lake Placid,Cross Country Skiing,2,2,2
+M,1932,Lake Placid,Figure Skating,2,2,2
+M,1932,Lake Placid,Ice Hockey,10,14,14
+M,1932,Lake Placid,Nordic Combined,1,1,1
+M,1932,Lake Placid,Ski Jumping,1,1,1
+M,1932,Lake Placid,Speed Skating,4,4,4
+M,1932,Los Angeles,Alpinism,0,2,0
+M,1932,Los Angeles,Art Competitions,6,10,7
+M,1932,Los Angeles,Athletics,29,29,29
+M,1932,Los Angeles,Boxing,8,8,8
+M,1932,Los Angeles,Cycling,12,12,12
+M,1932,Los Angeles,Diving,2,2,2
+M,1932,Los Angeles,Equestrianism,6,9,9
+M,1932,Los Angeles,Fencing,21,21,20
+M,1932,Los Angeles,Gymnastics,15,15,15
+M,1932,Los Angeles,Hockey,14,15,11
+M,1932,Los Angeles,Modern Pentathlon,1,1,1
+M,1932,Los Angeles,Rowing,26,26,26
+M,1932,Los Angeles,Sailing,7,19,14
+M,1932,Los Angeles,Shooting,2,2,2
+M,1932,Los Angeles,Swimming,9,9,9
+M,1932,Los Angeles,Water Polo,7,10,8
+M,1932,Los Angeles,Weightlifting,5,5,5
+M,1932,Los Angeles,Wrestling,14,14,14
+M,1936,Berlin,Aeronautics,0,1,0
+M,1936,Berlin,Alpinism,0,1,0
+M,1936,Berlin,Art Competitions,12,10,13
+M,1936,Berlin,Athletics,29,29,29
+M,1936,Berlin,Basketball,11,14,9
+M,1936,Berlin,Boxing,8,8,8
+M,1936,Berlin,Canoeing,14,14,14
+M,1936,Berlin,Cycling,13,13,13
+M,1936,Berlin,Diving,2,2,2
+M,1936,Berlin,Equestrianism,12,12,12
+M,1936,Berlin,Fencing,21,21,21
+M,1936,Berlin,Football,14,14,13
+M,1936,Berlin,Gymnastics,16,15,15
+M,1936,Berlin,Handball,17,22,22
+M,1936,Berlin,Hockey,12,19,22
+M,1936,Berlin,Modern Pentathlon,1,1,1
+M,1936,Berlin,Polo,4,4,4
+M,1936,Berlin,Rowing,26,26,26
+M,1936,Berlin,Sailing,13,14,14
+M,1936,Berlin,Shooting,3,3,3
+M,1936,Berlin,Swimming,9,9,11
+M,1936,Berlin,Water Polo,9,11,11
+M,1936,Berlin,Weightlifting,5,6,4
+M,1936,Berlin,Wrestling,14,14,14
+M,1936,Garmisch-Partenkirchen,Alpine Skiing,1,1,1
+M,1936,Garmisch-Partenkirchen,Bobsleigh,6,6,6
+M,1936,Garmisch-Partenkirchen,Cross Country Skiing,6,6,6
+M,1936,Garmisch-Partenkirchen,Figure Skating,2,2,2
+M,1936,Garmisch-Partenkirchen,Ice Hockey,11,12,13
+M,1936,Garmisch-Partenkirchen,Nordic Combined,1,1,1
+M,1936,Garmisch-Partenkirchen,Ski Jumping,1,1,1
+M,1936,Garmisch-Partenkirchen,Speed Skating,4,4,4
+M,1948,London,Art Competitions,10,7,12
+M,1948,London,Athletics,30,30,30
+M,1948,London,Basketball,10,14,14
+M,1948,London,Boxing,8,8,8
+M,1948,London,Canoeing,12,12,12
+M,1948,London,Cycling,13,13,13
+M,1948,London,Diving,2,2,2
+M,1948,London,Equestrianism,12,12,12
+M,1948,London,Fencing,21,21,21
+M,1948,London,Football,13,12,15
+M,1948,London,Gymnastics,17,17,14
+M,1948,London,Hockey,12,20,12
+M,1948,London,Modern Pentathlon,1,1,1
+M,1948,London,Rowing,26,26,26
+M,1948,London,Sailing,13,13,13
+M,1948,London,Shooting,4,4,4
+M,1948,London,Swimming,9,13,9
+M,1948,London,Water Polo,9,9,11
+M,1948,London,Weightlifting,6,6,6
+M,1948,London,Wrestling,16,16,16
+M,1948,Sankt Moritz,Alpine Skiing,4,3,3
+M,1948,Sankt Moritz,Bobsleigh,6,6,6
+M,1948,Sankt Moritz,Cross Country Skiing,6,6,6
+M,1948,Sankt Moritz,Figure Skating,2,2,2
+M,1948,Sankt Moritz,Ice Hockey,17,12,17
+M,1948,Sankt Moritz,Nordic Combined,1,1,1
+M,1948,Sankt Moritz,Skeleton,1,1,1
+M,1948,Sankt Moritz,Ski Jumping,1,1,1
+M,1948,Sankt Moritz,Speed Skating,3,4,6
+M,1952,Helsinki,Athletics,30,30,30
+M,1952,Helsinki,Basketball,12,14,14
+M,1952,Helsinki,Boxing,20,10,10
+M,1952,Helsinki,Canoeing,12,12,12
+M,1952,Helsinki,Cycling,13,13,13
+M,1952,Helsinki,Diving,2,2,2
+M,1952,Helsinki,Equestrianism,11,12,11
+M,1952,Helsinki,Fencing,21,21,21
+M,1952,Helsinki,Football,12,15,11
+M,1952,Helsinki,Gymnastics,14,15,18
+M,1952,Helsinki,Hockey,13,14,11
+M,1952,Helsinki,Modern Pentathlon,4,4,4
+M,1952,Helsinki,Rowing,26,26,26
+M,1952,Helsinki,Sailing,14,15,13
+M,1952,Helsinki,Shooting,7,7,7
+M,1952,Helsinki,Swimming,9,13,9
+M,1952,Helsinki,Water Polo,11,13,9
+M,1952,Helsinki,Weightlifting,7,7,7
+M,1952,Helsinki,Wrestling,16,16,16
+M,1952,Oslo,Alpine Skiing,3,3,3
+M,1952,Oslo,Bobsleigh,6,6,6
+M,1952,Oslo,Cross Country Skiing,6,6,6
+M,1952,Oslo,Figure Skating,2,2,2
+M,1952,Oslo,Ice Hockey,17,16,15
+M,1952,Oslo,Nordic Combined,1,1,1
+M,1952,Oslo,Ski Jumping,1,1,1
+M,1952,Oslo,Speed Skating,5,4,4
+M,1956,Cortina d'Ampezzo,Alpine Skiing,3,3,3
+M,1956,Cortina d'Ampezzo,Bobsleigh,6,6,6
+M,1956,Cortina d'Ampezzo,Cross Country Skiing,7,7,7
+M,1956,Cortina d'Ampezzo,Figure Skating,2,2,2
+M,1956,Cortina d'Ampezzo,Ice Hockey,17,17,17
+M,1956,Cortina d'Ampezzo,Nordic Combined,1,1,1
+M,1956,Cortina d'Ampezzo,Ski Jumping,1,1,1
+M,1956,Cortina d'Ampezzo,Speed Skating,4,5,3
+M,1956,Melbourne,Athletics,31,30,31
+M,1956,Melbourne,Basketball,12,12,12
+M,1956,Melbourne,Boxing,20,10,10
+M,1956,Melbourne,Canoeing,12,12,12
+M,1956,Melbourne,Cycling,13,14,13
+M,1956,Melbourne,Diving,2,2,2
+M,1956,Melbourne,Fencing,19,21,21
+M,1956,Melbourne,Football,14,18,14
+M,1956,Melbourne,Gymnastics,14,14,14
+M,1956,Melbourne,Hockey,11,17,14
+M,1956,Melbourne,Modern Pentathlon,4,4,4
+M,1956,Melbourne,Rowing,26,26,26
+M,1956,Melbourne,Sailing,11,11,12
+M,1956,Melbourne,Shooting,7,7,7
+M,1956,Melbourne,Swimming,10,13,12
+M,1956,Melbourne,Water Polo,10,11,8
+M,1956,Melbourne,Weightlifting,7,7,7
+M,1956,Melbourne,Wrestling,16,16,16
+M,1956,Stockholm,Equestrianism,10,12,8
+M,1960,Roma,Athletics,30,30,30
+M,1960,Roma,Basketball,12,12,12
+M,1960,Roma,Boxing,20,10,10
+M,1960,Roma,Canoeing,10,10,10
+M,1960,Roma,Cycling,13,13,13
+M,1960,Roma,Diving,2,2,2
+M,1960,Roma,Equestrianism,10,10,10
+M,1960,Roma,Fencing,17,20,20
+M,1960,Roma,Football,16,16,12
+M,1960,Roma,Gymnastics,14,15,11
+M,1960,Roma,Hockey,14,13,13
+M,1960,Roma,Modern Pentathlon,4,4,4
+M,1960,Roma,Rowing,26,26,26
+M,1960,Roma,Sailing,12,11,11
+M,1960,Roma,Shooting,6,6,6
+M,1960,Roma,Swimming,18,20,17
+M,1960,Roma,Water Polo,14,12,11
+M,1960,Roma,Weightlifting,7,7,7
+M,1960,Roma,Wrestling,16,16,16
+M,1960,Squaw Valley,Alpine Skiing,3,3,3
+M,1960,Squaw Valley,Biathlon,1,1,1
+M,1960,Squaw Valley,Cross Country Skiing,7,7,7
+M,1960,Squaw Valley,Figure Skating,2,2,2
+M,1960,Squaw Valley,Ice Hockey,17,17,17
+M,1960,Squaw Valley,Nordic Combined,1,1,1
+M,1960,Squaw Valley,Ski Jumping,1,1,1
+M,1960,Squaw Valley,Speed Skating,4,5,3
+M,1964,Innsbruck,Alpine Skiing,3,3,3
+M,1964,Innsbruck,Biathlon,1,1,1
+M,1964,Innsbruck,Bobsleigh,6,6,6
+M,1964,Innsbruck,Cross Country Skiing,7,7,7
+M,1964,Innsbruck,Figure Skating,2,2,3
+M,1964,Innsbruck,Ice Hockey,17,17,17
+M,1964,Innsbruck,Luge,3,3,3
+M,1964,Innsbruck,Nordic Combined,1,1,1
+M,1964,Innsbruck,Ski Jumping,2,2,2
+M,1964,Innsbruck,Speed Skating,3,4,6
+M,1964,Tokyo,Athletics,30,30,30
+M,1964,Tokyo,Basketball,12,12,12
+M,1964,Tokyo,Boxing,20,10,10
+M,1964,Tokyo,Canoeing,10,10,10
+M,1964,Tokyo,Cycling,14,14,14
+M,1964,Tokyo,Diving,2,2,2
+M,1964,Tokyo,Equestrianism,13,13,10
+M,1964,Tokyo,Fencing,18,18,18
+M,1964,Tokyo,Football,19,14,17
+M,1964,Tokyo,Gymnastics,11,13,16
+M,1964,Tokyo,Hockey,14,15,16
+M,1964,Tokyo,Judo,8,4,4
+M,1964,Tokyo,Modern Pentathlon,4,4,4
+M,1964,Tokyo,Rowing,27,26,26
+M,1964,Tokyo,Sailing,11,11,11
+M,1964,Tokyo,Shooting,6,6,6
+M,1964,Tokyo,Swimming,21,28,19
+M,1964,Tokyo,Volleyball,9,11,11
+M,1964,Tokyo,Water Polo,11,12,11
+M,1964,Tokyo,Weightlifting,7,7,7
+M,1964,Tokyo,Wrestling,16,16,16
+M,1968,Grenoble,Alpine Skiing,3,3,3
+M,1968,Grenoble,Biathlon,5,5,5
+M,1968,Grenoble,Bobsleigh,6,6,6
+M,1968,Grenoble,Cross Country Skiing,7,7,7
+M,1968,Grenoble,Figure Skating,2,2,2
+M,1968,Grenoble,Ice Hockey,18,18,18
+M,1968,Grenoble,Luge,3,3,3
+M,1968,Grenoble,Nordic Combined,1,1,1
+M,1968,Grenoble,Ski Jumping,2,2,2
+M,1968,Grenoble,Speed Skating,2,4,6
+M,1968,Mexico City,Athletics,30,30,30
+M,1968,Mexico City,Basketball,12,12,12
+M,1968,Mexico City,Boxing,22,11,11
+M,1968,Mexico City,Canoeing,10,10,10
+M,1968,Mexico City,Cycling,15,15,15
+M,1968,Mexico City,Diving,2,2,2
+M,1968,Mexico City,Equestrianism,12,11,10
+M,1968,Mexico City,Fencing,18,18,18
+M,1968,Mexico City,Football,16,17,18
+M,1968,Mexico City,Gymnastics,13,14,12
+M,1968,Mexico City,Hockey,16,13,14
+M,1968,Mexico City,Modern Pentathlon,4,4,4
+M,1968,Mexico City,Rowing,26,27,26
+M,1968,Mexico City,Sailing,11,11,11
+M,1968,Mexico City,Shooting,7,7,7
+M,1968,Mexico City,Swimming,28,36,25
+M,1968,Mexico City,Volleyball,12,12,11
+M,1968,Mexico City,Water Polo,11,11,11
+M,1968,Mexico City,Weightlifting,7,7,7
+M,1968,Mexico City,Wrestling,16,16,16
+M,1972,Munich,Archery,1,1,1
+M,1972,Munich,Athletics,30,30,30
+M,1972,Munich,Basketball,12,12,12
+M,1972,Munich,Boxing,22,11,11
+M,1972,Munich,Canoeing,14,14,14
+M,1972,Munich,Cycling,9,15,14
+M,1972,Munich,Diving,2,2,2
+M,1972,Munich,Equestrianism,11,10,9
+M,1972,Munich,Fencing,18,18,18
+M,1972,Munich,Football,36,17,17
+M,1972,Munich,Gymnastics,13,13,13
+M,1972,Munich,Handball,15,14,16
+M,1972,Munich,Hockey,14,18,15
+M,1972,Munich,Judo,12,6,5
+M,1972,Munich,Modern Pentathlon,4,4,4
+M,1972,Munich,Rowing,26,26,26
+M,1972,Munich,Sailing,13,13,14
+M,1972,Munich,Shooting,8,8,8
+M,1972,Munich,Swimming,28,33,27
+M,1972,Munich,Volleyball,12,12,12
+M,1972,Munich,Water Polo,11,11,11
+M,1972,Munich,Weightlifting,9,9,9
+M,1972,Munich,Wrestling,20,20,20
+M,1972,Sapporo,Alpine Skiing,3,3,3
+M,1972,Sapporo,Biathlon,5,5,5
+M,1972,Sapporo,Bobsleigh,6,6,6
+M,1972,Sapporo,Cross Country Skiing,7,7,7
+M,1972,Sapporo,Figure Skating,2,2,2
+M,1972,Sapporo,Ice Hockey,18,20,17
+M,1972,Sapporo,Luge,3,5,1
+M,1972,Sapporo,Nordic Combined,1,1,1
+M,1972,Sapporo,Ski Jumping,2,2,2
+M,1972,Sapporo,Speed Skating,4,4,4
+M,1976,Innsbruck,Alpine Skiing,3,3,3
+M,1976,Innsbruck,Biathlon,5,5,5
+M,1976,Innsbruck,Bobsleigh,6,6,6
+M,1976,Innsbruck,Cross Country Skiing,7,7,7
+M,1976,Innsbruck,Figure Skating,3,3,3
+M,1976,Innsbruck,Ice Hockey,18,18,19
+M,1976,Innsbruck,Luge,3,3,3
+M,1976,Innsbruck,Nordic Combined,1,1,1
+M,1976,Innsbruck,Ski Jumping,2,2,2
+M,1976,Innsbruck,Speed Skating,5,5,5
+M,1976,Montreal,Archery,1,1,1
+M,1976,Montreal,Athletics,29,29,29
+M,1976,Montreal,Basketball,12,12,12
+M,1976,Montreal,Boxing,22,11,11
+M,1976,Montreal,Canoeing,16,16,16
+M,1976,Montreal,Cycling,12,12,12
+M,1976,Montreal,Diving,2,2,2
+M,1976,Montreal,Equestrianism,11,11,12
+M,1976,Montreal,Fencing,18,18,18
+M,1976,Montreal,Football,15,17,17
+M,1976,Montreal,Gymnastics,15,13,13
+M,1976,Montreal,Handball,14,14,14
+M,1976,Montreal,Hockey,16,14,15
+M,1976,Montreal,Judo,12,6,6
+M,1976,Montreal,Modern Pentathlon,4,4,4
+M,1976,Montreal,Rowing,30,31,30
+M,1976,Montreal,Sailing,12,12,12
+M,1976,Montreal,Shooting,7,7,6
+M,1976,Montreal,Swimming,21,25,22
+M,1976,Montreal,Volleyball,12,12,12
+M,1976,Montreal,Water Polo,10,11,11
+M,1976,Montreal,Weightlifting,9,9,9
+M,1976,Montreal,Wrestling,20,20,20
+M,1980,Lake Placid,Alpine Skiing,3,3,3
+M,1980,Lake Placid,Biathlon,6,6,6
+M,1980,Lake Placid,Bobsleigh,6,6,6
+M,1980,Lake Placid,Cross Country Skiing,7,7,6
+M,1980,Lake Placid,Figure Skating,3,3,3
+M,1980,Lake Placid,Ice Hockey,20,19,20
+M,1980,Lake Placid,Luge,3,3,3
+M,1980,Lake Placid,Nordic Combined,1,1,1
+M,1980,Lake Placid,Ski Jumping,1,2,3
+M,1980,Lake Placid,Speed Skating,6,5,5
+M,1980,Moskva,Archery,1,1,1
+M,1980,Moskva,Athletics,29,31,31
+M,1980,Moskva,Basketball,12,12,12
+M,1980,Moskva,Boxing,22,11,11
+M,1980,Moskva,Canoeing,16,16,16
+M,1980,Moskva,Cycling,12,13,12
+M,1980,Moskva,Diving,2,2,2
+M,1980,Moskva,Equestrianism,13,12,12
+M,1980,Moskva,Fencing,17,18,18
+M,1980,Moskva,Football,17,16,17
+M,1980,Moskva,Gymnastics,13,13,13
+M,1980,Moskva,Handball,14,14,14
+M,1980,Moskva,Hockey,16,16,16
+M,1980,Moskva,Judo,16,8,8
+M,1980,Moskva,Modern Pentathlon,4,4,4
+M,1980,Moskva,Rowing,30,30,30
+M,1980,Moskva,Sailing,12,12,12
+M,1980,Moskva,Shooting,7,7,7
+M,1980,Moskva,Swimming,21,23,24
+M,1980,Moskva,Volleyball,10,12,12
+M,1980,Moskva,Water Polo,11,11,11
+M,1980,Moskva,Weightlifting,10,10,10
+M,1980,Moskva,Wrestling,20,20,20
+M,1984,Los Angeles,Archery,1,1,1
+M,1984,Los Angeles,Athletics,31,32,31
+M,1984,Los Angeles,Basketball,12,12,12
+M,1984,Los Angeles,Boxing,24,12,12
+M,1984,Los Angeles,Canoeing,16,16,16
+M,1984,Los Angeles,Cycling,13,13,14
+M,1984,Los Angeles,Diving,2,2,2
+M,1984,Los Angeles,Equestrianism,8,10,7
+M,1984,Los Angeles,Fencing,18,18,18
+M,1984,Los Angeles,Football,17,16,16
+M,1984,Los Angeles,Gymnastics,13,15,14
+M,1984,Los Angeles,Handball,15,14,15
+M,1984,Los Angeles,Hockey,15,16,16
+M,1984,Los Angeles,Judo,16,8,8
+M,1984,Los Angeles,Modern Pentathlon,4,4,4
+M,1984,Los Angeles,Rowing,30,30,30
+M,1984,Los Angeles,Sailing,13,13,13
+M,1984,Los Angeles,Shooting,8,8,8
+M,1984,Los Angeles,Swimming,28,32,25
+M,1984,Los Angeles,Volleyball,12,12,12
+M,1984,Los Angeles,Water Polo,12,13,13
+M,1984,Los Angeles,Weightlifting,10,10,10
+M,1984,Los Angeles,Wrestling,20,20,20
+M,1984,Sarajevo,Alpine Skiing,3,3,3
+M,1984,Sarajevo,Biathlon,6,6,6
+M,1984,Sarajevo,Bobsleigh,6,6,6
+M,1984,Sarajevo,Cross Country Skiing,7,7,7
+M,1984,Sarajevo,Figure Skating,3,3,3
+M,1984,Sarajevo,Ice Hockey,20,20,20
+M,1984,Sarajevo,Luge,3,3,3
+M,1984,Sarajevo,Nordic Combined,1,1,1
+M,1984,Sarajevo,Ski Jumping,2,2,2
+M,1984,Sarajevo,Speed Skating,5,5,5
+M,1988,Calgary,Alpine Skiing,5,5,5
+M,1988,Calgary,Biathlon,6,6,6
+M,1988,Calgary,Bobsleigh,6,6,6
+M,1988,Calgary,Cross Country Skiing,7,7,7
+M,1988,Calgary,Figure Skating,3,3,3
+M,1988,Calgary,Ice Hockey,22,21,22
+M,1988,Calgary,Luge,3,3,3
+M,1988,Calgary,Nordic Combined,4,4,4
+M,1988,Calgary,Ski Jumping,6,6,6
+M,1988,Calgary,Speed Skating,5,5,5
+M,1988,Seoul,Archery,4,4,4
+M,1988,Seoul,Athletics,33,32,33
+M,1988,Seoul,Basketball,12,12,12
+M,1988,Seoul,Boxing,24,12,12
+M,1988,Seoul,Canoeing,16,16,16
+M,1988,Seoul,Cycling,14,14,14
+M,1988,Seoul,Diving,2,2,2
+M,1988,Seoul,Equestrianism,7,11,9
+M,1988,Seoul,Fencing,18,18,18
+M,1988,Seoul,Football,18,18,16
+M,1988,Seoul,Gymnastics,14,17,10
+M,1988,Seoul,Handball,15,14,13
+M,1988,Seoul,Hockey,16,16,16
+M,1988,Seoul,Judo,14,7,7
+M,1988,Seoul,Modern Pentathlon,4,4,4
+M,1988,Seoul,Rowing,30,30,31
+M,1988,Seoul,Sailing,13,13,13
+M,1988,Seoul,Shooting,9,9,9
+M,1988,Seoul,Swimming,31,32,28
+M,1988,Seoul,Table Tennis,3,3,3
+M,1988,Seoul,Tennis,6,3,3
+M,1988,Seoul,Volleyball,12,12,12
+M,1988,Seoul,Water Polo,13,13,13
+M,1988,Seoul,Weightlifting,10,10,10
+M,1988,Seoul,Wrestling,20,20,20
+M,1992,Albertville,Alpine Skiing,5,5,5
+M,1992,Albertville,Biathlon,6,6,6
+M,1992,Albertville,Bobsleigh,6,6,6
+M,1992,Albertville,Cross Country Skiing,8,5,7
+M,1992,Albertville,Figure Skating,3,3,3
+M,1992,Albertville,Freestyle Skiing,1,1,1
+M,1992,Albertville,Ice Hockey,22,22,22
+M,1992,Albertville,Luge,3,3,3
+M,1992,Albertville,Nordic Combined,4,4,4
+M,1992,Albertville,Short Track Speed Skating,5,5,6
+M,1992,Albertville,Ski Jumping,6,6,6
+M,1992,Albertville,Speed Skating,5,5,5
+M,1992,Barcelona,Archery,4,4,4
+M,1992,Barcelona,Athletics,34,33,31
+M,1992,Barcelona,Badminton,6,3,3
+M,1992,Barcelona,Baseball,20,20,20
+M,1992,Barcelona,Basketball,12,12,12
+M,1992,Barcelona,Boxing,24,12,12
+M,1992,Barcelona,Canoeing,20,20,20
+M,1992,Barcelona,Cycling,14,14,13
+M,1992,Barcelona,Diving,2,2,2
+M,1992,Barcelona,Equestrianism,13,10,9
+M,1992,Barcelona,Fencing,18,18,18
+M,1992,Barcelona,Football,20,17,16
+M,1992,Barcelona,Gymnastics,14,14,14
+M,1992,Barcelona,Handball,16,12,16
+M,1992,Barcelona,Hockey,16,16,16
+M,1992,Barcelona,Judo,14,7,7
+M,1992,Barcelona,Modern Pentathlon,4,4,4
+M,1992,Barcelona,Rowing,30,30,30
+M,1992,Barcelona,Sailing,13,13,13
+M,1992,Barcelona,Shooting,9,8,9
+M,1992,Barcelona,Swimming,30,33,30
+M,1992,Barcelona,Table Tennis,6,3,3
+M,1992,Barcelona,Tennis,6,3,3
+M,1992,Barcelona,Volleyball,12,12,12
+M,1992,Barcelona,Water Polo,13,12,12
+M,1992,Barcelona,Weightlifting,9,10,10
+M,1992,Barcelona,Wrestling,20,20,20
+M,1994,Lillehammer,Alpine Skiing,5,5,5
+M,1994,Lillehammer,Biathlon,6,6,6
+M,1994,Lillehammer,Bobsleigh,6,6,6
+M,1994,Lillehammer,Cross Country Skiing,8,6,6
+M,1994,Lillehammer,Figure Skating,3,3,3
+M,1994,Lillehammer,Freestyle Skiing,2,2,2
+M,1994,Lillehammer,Ice Hockey,22,22,21
+M,1994,Lillehammer,Luge,3,3,3
+M,1994,Lillehammer,Nordic Combined,4,4,4
+M,1994,Lillehammer,Short Track Speed Skating,6,6,6
+M,1994,Lillehammer,Ski Jumping,6,6,6
+M,1994,Lillehammer,Speed Skating,5,5,5
+M,1996,Atlanta,Archery,4,4,4
+M,1996,Atlanta,Athletics,32,32,33
+M,1996,Atlanta,Badminton,4,4,4
+M,1996,Atlanta,Baseball,20,20,20
+M,1996,Atlanta,Basketball,11,12,12
+M,1996,Atlanta,Beach Volleyball,2,2,2
+M,1996,Atlanta,Boxing,24,12,12
+M,1996,Atlanta,Canoeing,20,20,20
+M,1996,Atlanta,Cycling,12,11,11
+M,1996,Atlanta,Diving,2,2,2
+M,1996,Atlanta,Equestrianism,11,10,6
+M,1996,Atlanta,Fencing,12,12,13
+M,1996,Atlanta,Football,17,16,18
+M,1996,Atlanta,Gymnastics,15,14,15
+M,1996,Atlanta,Handball,16,16,16
+M,1996,Atlanta,Hockey,16,16,16
+M,1996,Atlanta,Judo,14,7,7
+M,1996,Atlanta,Modern Pentathlon,1,1,1
+M,1996,Atlanta,Rowing,28,28,28
+M,1996,Atlanta,Sailing,12,12,12
+M,1996,Atlanta,Shooting,10,10,10
+M,1996,Atlanta,Swimming,29,32,30
+M,1996,Atlanta,Table Tennis,3,3,3
+M,1996,Atlanta,Tennis,3,3,3
+M,1996,Atlanta,Volleyball,12,12,12
+M,1996,Atlanta,Water Polo,13,12,12
+M,1996,Atlanta,Weightlifting,10,10,10
+M,1996,Atlanta,Wrestling,20,20,20
+M,1998,Nagano,Alpine Skiing,4,5,6
+M,1998,Nagano,Biathlon,6,6,6
+M,1998,Nagano,Bobsleigh,10,8,4
+M,1998,Nagano,Cross Country Skiing,8,5,7
+M,1998,Nagano,Curling,5,5,5
+M,1998,Nagano,Figure Skating,3,3,3
+M,1998,Nagano,Freestyle Skiing,2,2,2
+M,1998,Nagano,Ice Hockey,22,21,22
+M,1998,Nagano,Luge,3,3,3
+M,1998,Nagano,Nordic Combined,5,5,5
+M,1998,Nagano,Short Track Speed Skating,6,6,6
+M,1998,Nagano,Ski Jumping,6,6,6
+M,1998,Nagano,Snowboarding,2,2,2
+M,1998,Nagano,Speed Skating,5,5,5
+M,2000,Sydney,Archery,4,4,4
+M,2000,Sydney,Athletics,31,34,33
+M,2000,Sydney,Badminton,4,4,4
+M,2000,Sydney,Baseball,24,24,24
+M,2000,Sydney,Basketball,12,12,12
+M,2000,Sydney,Beach Volleyball,2,2,2
+M,2000,Sydney,Boxing,24,12,12
+M,2000,Sydney,Canoeing,20,20,20
+M,2000,Sydney,Cycling,17,18,17
+M,2000,Sydney,Diving,6,6,6
+M,2000,Sydney,Equestrianism,9,10,8
+M,2000,Sydney,Fencing,13,14,13
+M,2000,Sydney,Football,17,18,17
+M,2000,Sydney,Gymnastics,13,13,13
+M,2000,Sydney,Handball,15,15,15
+M,2000,Sydney,Hockey,16,16,16
+M,2000,Sydney,Judo,14,7,7
+M,2000,Sydney,Modern Pentathlon,1,1,1
+M,2000,Sydney,Rowing,28,28,28
+M,2000,Sydney,Sailing,14,14,14
+M,2000,Sydney,Shooting,10,10,10
+M,2000,Sydney,Swimming,26,33,32
+M,2000,Sydney,Table Tennis,3,3,3
+M,2000,Sydney,Taekwondo,4,4,4
+M,2000,Sydney,Tennis,3,3,3
+M,2000,Sydney,Trampolining,1,1,1
+M,2000,Sydney,Triathlon,1,1,1
+M,2000,Sydney,Volleyball,12,11,12
+M,2000,Sydney,Water Polo,13,13,12
+M,2000,Sydney,Weightlifting,8,8,8
+M,2000,Sydney,Wrestling,16,16,16
+M,2002,Salt Lake City,Alpine Skiing,5,5,5
+M,2002,Salt Lake City,Biathlon,7,7,7
+M,2002,Salt Lake City,Bobsleigh,6,6,6
+M,2002,Salt Lake City,Cross Country Skiing,9,10,8
+M,2002,Salt Lake City,Curling,5,5,5
+M,2002,Salt Lake City,Figure Skating,3,4,2
+M,2002,Salt Lake City,Freestyle Skiing,2,2,2
+M,2002,Salt Lake City,Ice Hockey,21,22,23
+M,2002,Salt Lake City,Luge,3,3,3
+M,2002,Salt Lake City,Nordic Combined,6,6,6
+M,2002,Salt Lake City,Short Track Speed Skating,8,8,8
+M,2002,Salt Lake City,Skeleton,1,1,1
+M,2002,Salt Lake City,Ski Jumping,6,6,6
+M,2002,Salt Lake City,Snowboarding,2,2,2
+M,2002,Salt Lake City,Speed Skating,5,5,5
+M,2004,Athina,Archery,4,4,4
+M,2004,Athina,Athletics,30,32,30
+M,2004,Athina,Badminton,4,4,4
+M,2004,Athina,Baseball,24,24,24
+M,2004,Athina,Basketball,12,12,12
+M,2004,Athina,Beach Volleyball,2,2,2
+M,2004,Athina,Boxing,22,11,11
+M,2004,Athina,Canoeing,20,20,20
+M,2004,Athina,Cycling,17,19,19
+M,2004,Athina,Diving,6,6,6
+M,2004,Athina,Equestrianism,8,12,9
+M,2004,Athina,Fencing,14,13,14
+M,2004,Athina,Football,17,16,17
+M,2004,Athina,Gymnastics,13,13,13
+M,2004,Athina,Handball,14,15,15
+M,2004,Athina,Hockey,16,16,16
+M,2004,Athina,Judo,14,7,7
+M,2004,Athina,Modern Pentathlon,1,1,1
+M,2004,Athina,Rowing,28,28,28
+M,2004,Athina,Sailing,11,11,11
+M,2004,Athina,Shooting,10,10,10
+M,2004,Athina,Swimming,30,31,30
+M,2004,Athina,Table Tennis,3,3,3
+M,2004,Athina,Taekwondo,4,4,4
+M,2004,Athina,Tennis,3,3,3
+M,2004,Athina,Trampolining,1,1,1
+M,2004,Athina,Triathlon,1,1,1
+M,2004,Athina,Volleyball,12,12,12
+M,2004,Athina,Water Polo,13,13,12
+M,2004,Athina,Weightlifting,8,8,8
+M,2004,Athina,Wrestling,14,14,14
+M,2006,Torino,Alpine Skiing,5,5,5
+M,2006,Torino,Biathlon,8,8,8
+M,2006,Torino,Bobsleigh,6,6,6
+M,2006,Torino,Cross Country Skiing,10,10,10
+M,2006,Torino,Curling,4,5,4
+M,2006,Torino,Figure Skating,3,3,3
+M,2006,Torino,Freestyle Skiing,2,2,2
+M,2006,Torino,Ice Hockey,24,24,23
+M,2006,Torino,Luge,3,3,3
+M,2006,Torino,Nordic Combined,6,6,6
+M,2006,Torino,Short Track Speed Skating,7,8,8
+M,2006,Torino,Skeleton,1,1,1
+M,2006,Torino,Ski Jumping,6,6,6
+M,2006,Torino,Snowboarding,3,3,3
+M,2006,Torino,Speed Skating,10,9,10
+M,2008,Beijing,Archery,4,4,4
+M,2008,Beijing,Athletics,30,33,32
+M,2008,Beijing,Badminton,4,4,4
+M,2008,Beijing,Baseball,24,24,24
+M,2008,Beijing,Basketball,12,12,12
+M,2008,Beijing,Beach Volleyball,2,2,2
+M,2008,Beijing,Boxing,22,11,11
+M,2008,Beijing,Canoeing,20,20,20
+M,2008,Beijing,Cycling,18,17,19
+M,2008,Beijing,Diving,6,6,6
+M,2008,Beijing,Equestrianism,5,8,7
+M,2008,Beijing,Fencing,11,9,11
+M,2008,Beijing,Football,17,18,16
+M,2008,Beijing,Gymnastics,13,13,13
+M,2008,Beijing,Handball,14,15,14
+M,2008,Beijing,Hockey,17,17,16
+M,2008,Beijing,Judo,14,7,7
+M,2008,Beijing,Modern Pentathlon,1,1,1
+M,2008,Beijing,Rowing,28,28,28
+M,2008,Beijing,Sailing,11,11,11
+M,2008,Beijing,Shooting,9,9,9
+M,2008,Beijing,Swimming,32,36,33
+M,2008,Beijing,Table Tennis,4,4,4
+M,2008,Beijing,Taekwondo,8,4,4
+M,2008,Beijing,Tennis,3,3,3
+M,2008,Beijing,Trampolining,1,1,1
+M,2008,Beijing,Triathlon,1,1,1
+M,2008,Beijing,Volleyball,12,12,12
+M,2008,Beijing,Water Polo,13,13,13
+M,2008,Beijing,Weightlifting,8,8,8
+M,2008,Beijing,Wrestling,27,14,14
+M,2010,Vancouver,Alpine Skiing,5,5,5
+M,2010,Vancouver,Biathlon,7,8,9
+M,2010,Vancouver,Bobsleigh,6,6,6
+M,2010,Vancouver,Cross Country Skiing,10,10,10
+M,2010,Vancouver,Curling,4,5,4
+M,2010,Vancouver,Figure Skating,3,3,3
+M,2010,Vancouver,Freestyle Skiing,3,3,3
+M,2010,Vancouver,Ice Hockey,22,22,22
+M,2010,Vancouver,Luge,3,3,3
+M,2010,Vancouver,Nordic Combined,6,6,6
+M,2010,Vancouver,Short Track Speed Skating,8,8,8
+M,2010,Vancouver,Skeleton,1,1,1
+M,2010,Vancouver,Ski Jumping,6,6,6
+M,2010,Vancouver,Snowboarding,3,3,3
+M,2010,Vancouver,Speed Skating,9,8,9
+M,2012,London,Archery,4,4,4
+M,2012,London,Athletics,32,31,31
+M,2012,London,Badminton,4,4,4
+M,2012,London,Basketball,12,12,12
+M,2012,London,Beach Volleyball,2,2,2
+M,2012,London,Boxing,20,10,10
+M,2012,London,Canoeing,18,18,18
+M,2012,London,Cycling,16,14,14
+M,2012,London,Diving,6,6,6
+M,2012,London,Equestrianism,9,10,6
+M,2012,London,Fencing,11,11,11
+M,2012,London,Football,18,16,18
+M,2012,London,Gymnastics,12,12,12
+M,2012,London,Handball,15,15,14
+M,2012,London,Hockey,16,16,17
+M,2012,London,Judo,14,7,7
+M,2012,London,Modern Pentathlon,1,1,1
+M,2012,London,Rowing,28,28,28
+M,2012,London,Sailing,9,9,9
+M,2012,London,Shooting,9,9,9
+M,2012,London,Swimming,30,35,33
+M,2012,London,Table Tennis,4,4,4
+M,2012,London,Taekwondo,8,4,4
+M,2012,London,Tennis,4,4,4
+M,2012,London,Trampolining,1,1,1
+M,2012,London,Triathlon,1,1,1
+M,2012,London,Volleyball,12,12,12
+M,2012,London,Water Polo,13,13,13
+M,2012,London,Weightlifting,8,8,8
+M,2012,London,Wrestling,28,14,14
+M,2014,Sochi,Alpine Skiing,6,5,5
+M,2014,Sochi,Biathlon,10,10,10
+M,2014,Sochi,Bobsleigh,6,6,6
+M,2014,Sochi,Cross Country Skiing,10,10,10
+M,2014,Sochi,Curling,4,4,4
+M,2014,Sochi,Figure Skating,7,8,8
+M,2014,Sochi,Freestyle Skiing,5,5,5
+M,2014,Sochi,Ice Hockey,24,24,23
+M,2014,Sochi,Luge,6,6,6
+M,2014,Sochi,Nordic Combined,6,6,6
+M,2014,Sochi,Short Track Speed Skating,7,7,7
+M,2014,Sochi,Skeleton,1,1,1
+M,2014,Sochi,Ski Jumping,6,6,6
+M,2014,Sochi,Snowboarding,5,5,5
+M,2014,Sochi,Speed Skating,8,8,8
+M,2016,Rio de Janeiro,Archery,4,4,4
+M,2016,Rio de Janeiro,Athletics,32,34,31
+M,2016,Rio de Janeiro,Badminton,4,4,4
+M,2016,Rio de Janeiro,Basketball,12,12,12
+M,2016,Rio de Janeiro,Beach Volleyball,2,2,2
+M,2016,Rio de Janeiro,Boxing,20,10,9
+M,2016,Rio de Janeiro,Canoeing,19,18,18
+M,2016,Rio de Janeiro,Cycling,15,14,15
+M,2016,Rio de Janeiro,Diving,6,6,6
+M,2016,Rio de Janeiro,Equestrianism,10,10,7
+M,2016,Rio de Janeiro,Fencing,11,10,11
+M,2016,Rio de Janeiro,Football,18,17,17
+M,2016,Rio de Janeiro,Golf,1,1,1
+M,2016,Rio de Janeiro,Gymnastics,12,12,12
+M,2016,Rio de Janeiro,Handball,15,14,15
+M,2016,Rio de Janeiro,Hockey,16,18,16
+M,2016,Rio de Janeiro,Judo,14,7,7
+M,2016,Rio de Janeiro,Modern Pentathlon,1,1,1
+M,2016,Rio de Janeiro,Rowing,28,28,28
+M,2016,Rio de Janeiro,Rugby Sevens,13,13,12
+M,2016,Rio de Janeiro,Sailing,8,8,8
+M,2016,Rio de Janeiro,Shooting,9,9,9
+M,2016,Rio de Janeiro,Swimming,27,36,31
+M,2016,Rio de Janeiro,Table Tennis,4,4,4
+M,2016,Rio de Janeiro,Taekwondo,8,4,4
+M,2016,Rio de Janeiro,Tennis,4,4,4
+M,2016,Rio de Janeiro,Trampolining,1,1,1
+M,2016,Rio de Janeiro,Triathlon,1,1,1
+M,2016,Rio de Janeiro,Volleyball,12,12,12
+M,2016,Rio de Janeiro,Water Polo,13,13,13
+M,2016,Rio de Janeiro,Weightlifting,8,8,8
+M,2016,Rio de Janeiro,Wrestling,24,12,12
